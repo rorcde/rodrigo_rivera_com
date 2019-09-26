@@ -1,0 +1,17 @@
+version: '2.3'
+services:
+   jekyll-server:
+      image: jekyll_image:rodrigorivera-rodrigo_rivera_com
+      container_name: jekyll_container-rodrigorivera-rodrigo_rivera_com
+      build: docker
+      ports:
+         - "0.0.0.0:8081:8888"
+      volumes:
+         - $PWD:/srv/jekyll
+      ipc: host
+      command: jekyll serve --watch --host 0.0.0.0 --port 8888
+      stdin_open: true
+      tty: true
+
+
+
