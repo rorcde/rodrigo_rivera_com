@@ -3,7 +3,7 @@ services:
    jekyll-server:
       image: jekyll_image:rodrigorivera-rodrigo_rivera_com
       container_name: jekyll_container-rodrigorivera-rodrigo_rivera_com
-      build: docker
+      build: _docker
       ports:
          - "0.0.0.0:8081:8888"
       volumes:
