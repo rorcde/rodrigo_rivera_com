@@ -273,6 +273,8 @@ body.video cite { color: #fff; }
 #footer-content li {
     font-size: rem-calc(13);
     font-weight: 300;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 #footer {
@@ -290,6 +292,8 @@ body.video cite { color: #fff; }
         letter-spacing: 1px;
         color: #fff;
         text-transform: uppercase;
+        padding-left: 20px;
+        padding-right: 10px;
     }
 
 
@@ -307,6 +311,13 @@ body.video cite { color: #fff; }
     float: left;
 }
 
+#subfooter-right {
+    ul{overflow:hidden;
+        white-space:nowrap;}
+    li{display:inline;}
+
+}
+
 .credits a {
     color: $subfooter-link-color;
     border: 0;
@@ -320,8 +331,13 @@ body.video cite { color: #fff; }
     margin-bottom: 10px !important;
 
 // Beware of SCSS-Syntax here
+  ul{
+      overflow:hidden;
+      white-space:nowrap;
+    }
   li {
     padding: 0 0 20px 0;
+    display: inline;
   }
   a {
     font-size: rem-calc(23);

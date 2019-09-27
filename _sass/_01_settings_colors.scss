@@ -29,11 +29,22 @@ https://color.adobe.com/de/Winter-Road-color-theme-1507177/*/
 /*------------------------------------------------------------------- */
 
 $ci-1: #120C07;
+$ci-2: #00818A;
+$ci-3: #216583;
+$ci-4: #293462;
+$ci-5: #6058A9;
+$ci-6: #F7BE16;
+
+/* MLSS19
+$ci-1: #120C07;
 $ci-2: #EDAE2C;
 $ci-3: #5EAB9E;
 $ci-4: #F3ECB7;
 $ci-5: #6058A9;
 $ci-6: #F1EBB1;
+
+*/
+
 /*
 ADASE
 $ci-1: #555;		// dark turquoise
@@ -128,14 +139,14 @@ $topbar-menu-icon-color-toggled: $ci-6;
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg: $grey-8;
+$footer-bg: $ci-2;
 $footer-color: #fff;
-$footer-link-color: $ci-6;
+$footer-link-color: #fff;
 
 
-$subfooter-bg: $grey-13;
-$subfooter-color: $grey-8;
-$subfooter-link-color: $grey-8;
+$subfooter-bg: $ci-3;
+$subfooter-color: #fff;
+$subfooter-link-color: #fff;
 
 
 
