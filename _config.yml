@@ -8,19 +8,19 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'MLSS19 - Moscow, Russia'
+title: 'Rodrigo Rivera - Machine Learning Researcher'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Machine Learning Summer School 2019 - Moscow, Russia'
+slogan: 'Rodrigo Rivera - Machine Learning Researcher'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: >
-  The Machine Learning Summer School will take place between the 26th of August and 6th of September, 2019 at Skoltech in Moscow, Russia.
-  The MLSS offers an opportunity to learn about fundamental and advanced aspects of machine learning, data analysis and inference.
-  Join us to learn from world-renowned machine learning specialists, network with a diverse and formidable audience, and enjoy Moscow!.'
+  International by design, speaking 5 languages, Rodrigo has worked on leadership roles
+  in machine learning research and data science in South East Asia, the Americas and
+  Europe with leading FMCG and Internet companies over the last 10 years. 
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Organized by <a href="http://skoltech.ru">Skoltech</a>, <a href="http://mlss.cc">MLSS</a> and <a href="http://adase.group">ADASE</a>.</p> <p>Image header by Wassily Kandinsky</p>'
+credits: '<p>Rodrigo is a machine learning researcher at the <a href="http://adase.group">ADASE</a> group in <a href="http://skoltech.ru">Skoltech</a>.</p> '
 
 
 # Main author of the website
