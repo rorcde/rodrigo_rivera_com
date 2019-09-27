@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: page-resume
 title: "Curriculum Vitae"
 subheadline: "Organizing Commitee"
 permalink: "/cv/"
@@ -58,59 +58,108 @@ resume_print_social_links:      true
 # Associations
 # comment out the urls if you do not wish to display them
 associations:
-    - organization: PETA
-        role: Volunteer
-        year: 2001 &mdash; 2010
-        url: https://www.peta.org/
-        summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
-    - organization: Yale Amnesty International
-        role: Communications coordinator
-        year: 2002 &mdash; 2004
-        url: http://campuspress.yale.edu/amnesty/
-        summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+ - organization: PETA
+   role: Volunteer
+   year: 2001 &mdash; 2010
+   url: https://www.peta.org/
+   summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+ - organization: Yale Amnesty International
+   role: Communications coordinator
+   year: 2002 &mdash; 2004
+   url: http://campuspress.yale.edu/amnesty/
+   summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
 
 
 # Degree
 education:
-    - degree: Bachelor of Arts, Human Rights
-        uni: Yale University
-        year: 2004 &mdash; 2008
-        awards:
-            - award: Summa Cumme Laude graduate
-        summary: If you had any meaningful roles at college, feel free to write about them here
-    - degree: High School Diploma
-        uni: Springfield High School
-        year: 2004
-        award: Most likely to succeed
-        summary: You can choose to have either a single or multiple awards
+ - degree: Bachelor of Arts, Human Rights
+   uni: Yale University
+   year: 2004 &mdash; 2008
+   awards:
+    - award: Summa Cumme Laude graduate
+      summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: High School Diploma
+  uni: Springfield High School
+  year: 2004
+  award: Most likely to succeed
+  summary: You can choose to have either a single or multiple awards
 
 
 # Jobs
 experience:
-    # VP of Global Communications
-    - company:
-        name: Springfield International Human Rights Outreach
-        position: VP of Global Communications
-        duration: Oct, 2013 &mdash; Present
-        summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-    # Director of Digital Stratgy
-    - company:
-        name: United Nations Human Rights Council
-        position: Director of Digital Strategy
-        duration:  Jun, 2010 &mdash; Sept, 2013
-        summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+ # VP of Global Communications
+ - company:
+   name: Springfield International Human Rights Outreach
+   position: VP of Global Communications
+   duration: Oct, 2013 &mdash; Present
+   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+ # Director of Digital Stratgy
+ - company:
+   name: United Nations Human Rights Council
+   position: Director of Digital Strategy
+   duration:  Jun, 2010 &mdash; Sept, 2013
+   summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
     # Communications Coordinator
-    - company:
-        name: Springfield Women & Children's Center
-        position: Communications Coordinator
-        duration:   Jun, 2008  &mdash; May, 2010
-        summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+ - company:
+   name: Springfield Women & Children's Center
+   position: Communications Coordinator
+   duration:   Jun, 2008  &mdash; May, 2010
+   summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
 
 # Interests
 interests:
-    - description: Human rights and world affairs
-    - description: Music (baritone saxiphonist)
-    - description: Linguistics
+ - description: Human rights and world affairs
+ - description: Music (baritone saxiphonist)
+ - description: Linguistics
+
+
+# links
+links:
+ - url: "#"
+   description: Springfield Jazz Enthusiasts
+ - url: "#"
+   description: Springfield Young Professionals
+
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+projects:
+ # jazznotes.io
+ - project: jazznotes.io
+   role: Founder & Primary Developer
+   duration: 2012 &mdash; Present
+   # url: "#"
+   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+ # Springfield Community Outreach Group
+ - project: Springfield Community Outreach Group
+   role: Co-Founder & Organizer
+   duration: 2007 &mdash; Present
+   # url: "#"
+   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+
+
+# Recognitions
+recognitions:
+ - award: Outstanding Achievement
+   organization: Springfield Young Professionals
+   year: 2010, 2014
+   summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+ - award: Most Likely To Succeed
+   organization: Springfield High School
+   year: 2004
+   summary: Voted Most Likely To Succeed by a panel of my high school peers.
+
+
+# Skills
+skills:
+ # Organizational leadership
+ - skill: Organizational leadership
+   description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+ # Communications strategy
+ - skill: Communications strategy
+   description: Content and marketing strategy,
+ # Digital content development and creation
+ - skill: Digital content development and creation
+   description: Copy writing, graphic design, web design, front-end web development, print design
 ---
 
 
