@@ -4,25 +4,22 @@ title: "Curriculum Vitae"
 subheadline: "Organizing Commitee"
 permalink: "/cv/"
 header: no
-image:
-    title: organizers_798x396.jpg
-    caption: Prof. Evgeny Burnaev, Skoltech
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "Rodrigo Rivera"
+resume_title:                   "Machine Learning Research"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "rodrigo.riveracastro@skoltech.ru"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-7334"
 resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • rodrigo.riveracastro@skoltech.ru"
+display_header_contact_info:    "true"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>International by design, speaking 5 languages, Rodrigo has worked on leadership roles in machine learning research and data science in South East Asia, the Americas and Europe with leading FMCG and Internet companies over the last 10 years. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -54,112 +51,164 @@ resume_social_links:
     resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
+# Jobs
+experience:
+- company:
+    name: Alibaba
+    position: Machine Learning Advisor
+    duration: 2019 &mdash; Present
+    #summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company:
+    name: ADASE
+    position: Researcher
+    duration: 2017 &mdash; Present
+    #summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company:
+    name: Huawei
+    position: Machine Learning Advisor
+    duration:  2018 &mdash; 2019
+    #summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company:
+    name: Philip Morris International
+    position: Manager Data Science
+    duration:   2016  &mdash; 2018
+    #summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company:
+    name: Linio Group
+    position: Head Data Science & Machine Learning
+    duration:   2015  &mdash; 2017
+    #summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company:
+    name: Lamoda Group
+    position: VP R&D
+    duration:   2014  &mdash; 2015
+    #summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company:
+    name: Rocker Internet SE
+    position: Director Advertisement Technology
+    duration:   2012  &mdash; 2014
+    #summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company:
+    name: Emplido
+    position: CEO & Co-Founder
+    duration:   2009  &mdash; 2012
+    #summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company:
+    name: XING Events | FriendScout24 | BMW | Komdat | EADS | Otto Group | Infiniti Auto
+    position: Software Engineer
+    duration:   2006  &mdash; 2008
+    #summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+
+# Degree
+education:
+- degree:
+    name: Bachelor of Arts, Human Rights
+    uni: Yale University
+    year: 2004 &mdash; 2008
+    awards:
+      - award:
+          name: Summa Cumme Laude graduate
+          summary: If you had any meaningful roles at college, feel free to write about them here
+- degree:
+    name: High School Diploma
+    uni: Springfield High School
+    year: 2004
+    award: Most likely to succeed
+    summary: You can choose to have either a single or multiple awards
 
 # Associations
 # comment out the urls if you do not wish to display them
 associations:
- - organization: PETA
-   role: Volunteer
-   year: 2001 &mdash; 2010
-   url: https://www.peta.org/
-   summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
- - organization: Yale Amnesty International
-   role: Communications coordinator
-   year: 2002 &mdash; 2004
-   url: http://campuspress.yale.edu/amnesty/
-   summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization:
+    name: Alibaba
+    role: Machine Learning Advisor
+    year: 2019 &mdash; Today
+    url: https://www.alibaba.com
+    summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+- organization:
+    name: Huawei
+    role: Machine Learning Advisor
+    year: 2018 &mdash; 2019
+    url: http://campuspress.yale.edu/amnesty/
+    summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization:
+    name: Philip Morris International
+    role: Manager Data Science
+    year: 2016 &mdash; 2018
+    url: http://campuspress.yale.edu/amnesty/
+    summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization:
+    name: Linio
+    role: Head of Machine Learning
+    year: 2016 &mdash; 2018
+    url: http://campuspress.yale.edu/amnesty/
+    summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
 
-
-# Degree
-education:
- - degree: Bachelor of Arts, Human Rights
-   uni: Yale University
-   year: 2004 &mdash; 2008
-   awards:
-    - award: Summa Cumme Laude graduate
-      summary: If you had any meaningful roles at college, feel free to write about them here
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
-
-
-# Jobs
-experience:
- # VP of Global Communications
- - company:
-   name: Springfield International Human Rights Outreach
-   position: VP of Global Communications
-   duration: Oct, 2013 &mdash; Present
-   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
- # Director of Digital Stratgy
- - company:
-   name: United Nations Human Rights Council
-   position: Director of Digital Strategy
-   duration:  Jun, 2010 &mdash; Sept, 2013
-   summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-    # Communications Coordinator
- - company:
-   name: Springfield Women & Children's Center
-   position: Communications Coordinator
-   duration:   Jun, 2008  &mdash; May, 2010
-   summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
 
 # Interests
 interests:
- - description: Human rights and world affairs
- - description: Music (baritone saxiphonist)
- - description: Linguistics
+- description: Human rights and world affairs
+- description: Music (baritone saxiphonist)
+- description: Linguistics
 
 
 # links
 links:
- - url: "#"
-   description: Springfield Jazz Enthusiasts
- - url: "#"
-   description: Springfield Young Professionals
+- url:
+    url: "#"
+    description: Springfield Jazz Enthusiasts
+- url:
+    url: "#"
+    description: Springfield Young Professionals
 
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 projects:
  # jazznotes.io
- - project: jazznotes.io
-   role: Founder & Primary Developer
-   duration: 2012 &mdash; Present
-   # url: "#"
-   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project:
+    name: jazznotes.io
+    role: Founder & Primary Developer
+    duration: 2012 &mdash; Present
+    # url: "#"
+    description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
  # Springfield Community Outreach Group
- - project: Springfield Community Outreach Group
-   role: Co-Founder & Organizer
-   duration: 2007 &mdash; Present
-   # url: "#"
-   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project:
+    name: Springfield Community Outreach Group
+    role: Co-Founder & Organizer
+    duration: 2007 &mdash; Present
+    # url: "#"
+    description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
 
 
 # Recognitions
 recognitions:
- - award: Outstanding Achievement
-   organization: Springfield Young Professionals
-   year: 2010, 2014
-   summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
- - award: Most Likely To Succeed
-   organization: Springfield High School
-   year: 2004
-   summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award:
+    name: Outstanding Achievement
+    organization: Springfield Young Professionals
+    year: 2010, 2014
+    summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award:
+    name: Most Likely To Succeed
+    organization: Springfield High School
+    year: 2004
+    summary: Voted Most Likely To Succeed by a panel of my high school peers.
 
 
 # Skills
 skills:
- # Organizational leadership
- - skill: Organizational leadership
-   description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
- # Communications strategy
- - skill: Communications strategy
-   description: Content and marketing strategy,
- # Digital content development and creation
- - skill: Digital content development and creation
-   description: Copy writing, graphic design, web design, front-end web development, print design
+# Organizational leadership
+- skill:
+    name: Organizational leadership
+    description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Communications strategy
+- skill:
+    name: Communications strategy
+    description: Content and marketing strategy,
+# Digital content development and creation
+- skill:
+    name: Digital content development and creation
+    description: Copy writing, graphic design, web design, front-end web development, print design
 ---
+
 
 

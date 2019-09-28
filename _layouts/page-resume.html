@@ -31,23 +31,24 @@ format: page-fullwidth
 			{% endif %}
 
 			<!-- Resume Template starts-->
-			<div class="wrapper" itemscope itemtype="http://schema.org/Person">
+			<div class="resume-style wrapper" itemscope itemtype="http://schema.org/Person">
 				<meta itemprop="telephone" content="{{ page.resume_contact_telephone }}"/>
 				<meta itemprop="address" content="{{ page.resume_contact_address }}"/>
-		  
-				<header class="page-header">
-		  
+
+				<header class="resume-style page-header">
+				
 				  <!-- You can turn off the avatar in _config.yml by setting to false -->
 				  {% if page.resume_avatar == 'true' %}
-				  <img src="images/avatar.jpg" alt="my photo" class="avatar no-print" itemprop="image">
+				  <div class="resume-style">
+				  <img src="{{ site.urlimg }}/avatar.jpg" alt="my photo" class="avatar no-print" itemprop="image">
 				  {% endif %}
-		  
+
 				  <!-- Your name is defined in the _config.yml file -->
 				  <h1 class="header-name" itemprop="name">{{ page.resume_name }}</h1>
-		  
+
 				  <!-- To display contact info here, change `display_header_contact_info` value in _config.yml to true -->
 				  {% if page.display_header_contact_info == 'true' %}
-				  <div class="header-contact-info">
+				  <div class="resume-style header-contact-info">
 					<p>{{ page.resume_header_contact_info }}</p>
 				  </div>
 				  {% endif %}
@@ -58,7 +59,7 @@ format: page-fullwidth
 					<h2 class="header-title" itemprop="jobTitle">{{ page.resume_title }}</h2>
 		  
 					<!-- This is the markup for the icon links; moved out to an include because it's very verbose, and you shouldn't ever need to edit the markup (unless you want to re-order the icons); if you want to customize which links appear, define them in the _config.yml file -->
-					{% include icon-links.html %}
+					{% include _icon-links.html %}
 				  </div>
 		  
 				  <div class="executive-summary" itemprop="description">
@@ -71,22 +72,25 @@ format: page-fullwidth
 				  <a class="contact-button not-looking no-print">I'm not looking for work right now.</a>
 				  {% else %}
 				  {% endif %}
+				</div>
 		  
 				</header>
 		  
 				{% if page.resume_section_experience %}
 				<!-- begin Experience -->
-				<section class="content-section">
-		  
+				<section class="resume-style content-section">
+
 				  <header class="section-header">
 					<h2>Experience</h2>
 				  </header>
 		  
 				  {% for job in page.experience %}
 				  <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
-					<h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
-					<h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
-					<p class="resume-item-copy">{{ job.summary }}</p>
+					<h3 class="resume-item-title" itemprop="name">{{ job.company.name }}</h3>
+					<h4 class="resume-item-details" itemprop="description">{{ job.company.position }} &bull; {{ job.company.duration }}</h4>
+					{% if job.company.summary %}
+						<p class="resume-item-copy">{{ job.company.summary }}</p>
+					{% endif %}
 				  </div><!-- end of resume-item -->
 				  {% endfor %}
 		  
@@ -97,25 +101,32 @@ format: page-fullwidth
 		  
 				{% if page.resume_section_education %}
 				<!-- begin Education -->
-				<section class="content-section">
+				<section class="resume-style content-section">
 				  <header class="section-header">
 					<h2>Education</h2>
 				  </header>
 		  
 				  {% for education in page.education %}
 				  <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
-					<h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
-					<h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
-					<h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5>
+					<h3 class="resume-item-title" itemprop="name">{{ education.degree.uni }}</h3>
+					<h4 class="resume-item-details group" itemprop="description">{{ education.degree.name }} &bull; {{ education.degree.year }}</h4>
+					{% if education.degree.award %}
+					<h5 class="resume-item-details award-title" itemprop="description">{{ education.degree.award }}</h5>
+					{% endif %}
+					
+					{% if education.degree.awards %}
 					<p class="resume-item-copy" itemprop="description">
 					  <ul class="resume-item-list">
-						{% for award in education.awards %}
-						<li>{{ award.award }}</li>
+						{% for award in education.degree.awards %}
+						<li>{{ award.award.name }} {% if award.award.name %} - {{ award.award.name }} {% endif %} </li>
 						{% endfor %}
 					  </ul></h5>
-		  
-		  
+					  {% endif %}
+
+					{% if education.summary %}
 					<p class="resume-item-copy">{{ education.summary }}</p>
+					{% endif %}
+					
 				  </div>
 				  {% endfor %}
 				</section>
@@ -125,6 +136,7 @@ format: page-fullwidth
 		  
 				{% if page.resume_section_projects %}
 				<!-- begin Projects -->
+				<div class="resume-style">
 				<section class="content-section">
 				  <header class="section-header">
 					<h2>Projects</h2>
@@ -133,18 +145,23 @@ format: page-fullwidth
 				  {% for project in page.projects %}
 				  <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
 					<meta itemprop="creator" content="{{ page.resume_name }}" itemtype="http://schema.org/Person" />
-					<h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
-					<h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
-					<p class="resume-item-copy">{{ project.description }}</p>
+					<h3 class="resume-item-title" itemprop="name">{% if project.project.url %}<a href="{{ project.project.url }}" itemprop="url">{{ project.project.name }}</a>{% else %}{{ project.project.name }}{% endif %}</h3>
+					<h4 class="resume-item-details" itemprop="description">{{ project.project.role }}  &bull; {{ project.project.duration }}</h4>
+					{% if project.project.description %}
+					<p class="resume-item-copy">{{ project.project.description }}</p>
+					{% endif %}
+					
 				  </div>
 				  {% endfor %}
 		  
 				</section>
+				</div>
 				<!-- end Projects -->
 				{% endif %}
 		  
 				{% if page.resume_section_skills %}
 				<!-- begin Skills -->
+				<div class="resume-style">
 				<section class="content-section">
 		  
 				  <header class="section-header">
@@ -152,18 +169,21 @@ format: page-fullwidth
 				  </header>
 				  {% for skill in page.skills %}
 				  <div class="resume-item">
-					<h4 class="resume-item-details">{{ skill.skill }}</h4>
-					<p class="resume-item-copy">{{ skill.description }}</p>
+					<h4 class="resume-item-details">{{ skill.skill.name }}</h4>
+					{% if skill.skill.description %}
+					<p class="resume-item-copy">{{ skill.skill.description }}</p>
+					{% endif %}
 				  </div>
 				  {% endfor %}
 		  
 				</section>
+				</div>
 				<!-- end Skills -->
 				{% endif %}
 		  
 				{% if page.resume_section_recognition %}
 				<!-- begin Recognition -->
-				<section class="content-section">
+				<section class="resume-style content-section">
 		  
 				  <header class="section-header">
 					<h2>Recognition</h2>
@@ -171,9 +191,11 @@ format: page-fullwidth
 		  
 				  {% for recognition in page.recognitions %}
 				  <div class="resume-item">
-					<h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
-					<h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
-					<p class="resume-item-copy">{{ recognition.summary }}</p>
+					<h3 class="resume-item-title" itemprop="award">{{ recognition.award.name }}</h3>
+					<h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.award.year }}</h4>
+					{% if recognition.award.summary %}
+					<p class="resume-item-copy">{{ recognition.award.summary }}</p>
+					{% endif %}
 				  </div>
 				  {% endfor %}
 		  
@@ -183,7 +205,7 @@ format: page-fullwidth
 		  
 				{% if page.resume_section_associations %}
 				<!-- begin Associations -->
-				<section class="content-section">
+				<section class="resume-style content-section">
 		  
 				  <header class="section-header">
 					<h2>Associations</h2>
@@ -191,9 +213,11 @@ format: page-fullwidth
 		  
 				  {% for association in page.associations %}
 				  <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
-					<h3 class="resume-item-title" itemprop="name">{% if association.url %}<a href="{{ association.url }}">{{ association.organization }}</a>{% else %}{{ association.organization }}{% endif %}</h3>
-					<h4 class="resume-item-details" itemprop="description">{{ association.role }} &bull; {{ association.year }}</h4>
-					<p class="resume-item-copy">{{ association.summary }}</p>
+					<h3 class="resume-item-title" itemprop="name">{% if association.organization.url %}<a href="{{ association.organization.url }}">{{ association.organization.name }}</a>{% else %}{{ association.organization.name }}{% endif %}</h3>
+					<h4 class="resume-item-details" itemprop="description">{{ association.organization.role }} &bull; {{ association.organization.year }}</h4>
+					{% if association.organization.summary %}
+					<p class="resume-item-copy">{{ association.organization.summary }}</p>
+					{% endif %}
 				  </div>
 				  {% endfor %}
 		  
@@ -203,7 +227,7 @@ format: page-fullwidth
 		  
 				{% if page.resume_section_interests %}
 				<!-- begin Interests -->
-				<section class="content-section">
+				<section class="resume-style content-section">
 		  
 				  <header class="section-header">
 					<h2>Outside Interests</h2>
@@ -223,7 +247,7 @@ format: page-fullwidth
 		  
 				{% if page.resume_section_links %}
 				<!-- begin Links -->
-				<section class="content-section">
+				<section class="resume-style content-section">
 		  
 				  <header class="section-header">
 					<h2>Additional Links</h2>
@@ -232,7 +256,7 @@ format: page-fullwidth
 				  <div class="resume-item">
 					<ul class="resume-item-list">
 					  {% for link in page.links %}
-					  <li><a href={{ link.url }} itemprop="url">{{ link.description }}</a></li>
+					  <li><a href={{ link.url.url }} itemprop="url">{{ link.url.description }}</a></li>
 					  {% endfor %}
 					</ul>
 				  </div>
@@ -243,26 +267,27 @@ format: page-fullwidth
 		  
 				{% if page.resume_print_social_links %}
 				<!-- begin Print Social Links -->
-				<section class="content-section print-only">
+				<section class="resume-style content-section print-only">
 		  
 				  <header class="section-header">
 					<h2>Social Links</h2>
 				  </header>
 		  
 				  <div class="resume-item">
-				  {% include print-social-links.html %}
+				  {% include _print-social-links.html %}
 				  </div>
 		  
 				</section>
 				<!-- end Print Social Links -->
 				{% endif %}
 		  
-				<footer class="page-footer">
+				<footer class="resume-style page-footer">
 				  <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
 				  <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
 				</footer>
 		  
 			  </div>
+			</div>
 
 			<!-- Resume Template ends-->
 
