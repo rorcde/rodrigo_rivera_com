@@ -32,6 +32,18 @@ header:
       label: My LinkedIn
       href: https://www.linkedin.com/in/riverarodrigo/
       class: fab fa-linkedin
+  - link:
+      label: My Goodreads
+      href: https://www.goodreads.com/user/show/10442568-rodrigo-rivera
+      class: fab fa-goodreads-g
+  - link:
+      label: My Telegram
+      href: https://t.me/rod_rigo
+      class: fab fa-telegram-plane
+  - link:
+      label: My Instagram
+      href: http://instagram.com/rodrigo.rivera._
+      class: fab fa-instagram
 
   text_links:
   - link:
