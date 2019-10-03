@@ -9,7 +9,7 @@ image:
     caption: Rodrigo entreneurially active in Indonesia
 ---
 
-Rodrigo Rivera is a proven tech executive and nascent academic with numerous years of experience in managing analytics, data science, and machine learning. He has expertise leading management teams in data-driven decision making and in identifying market opportunities to drive revenues and profits in alignment with corporate needs leveraging machine learning.
+Rodrigo Rivera is a proven tech executive and nascent academic with numerous years of experience in managing analytics, data science, and machine learning. He has expertise leading technical teams in data-driven decision making and in identifying market opportunities to drive revenues and profits in alignment with corporate needs by leveraging machine learning.
 
 As a tech manager, his expertise lies in developing machine-learning software with an emphasis on growing revenue, market share, and brand footprint in highly competitive environments.
 
@@ -31,8 +31,15 @@ For Linio, a large Latin American e-commerce retailer, he was in charge of the d
 
 Rivera's work in e-commerce personalization attracted the attention of Philip Morris International, the largest producer of tobacco goods in the world. As a data science manager, his mandate was to establish the data science capabilities of the company in Russia and form one of the first data science groups within the eighty-thousand employees' organization. 
 
+In 2017, he transitioned to academia and joined the research group of Prof. Evgeny Burnaev, the Advanced Data Analytics in Science and Engineering Group, at the Skolkovo Institute of Science and Technology.
+
+There, he has pursued research at the intersection of Machine Learning and Topological Data Analysis. He is the author of more than seven peer-reviewed articles in the areas of demand prediction, user modeling, and resource allocation.
+
 Rodrigo Rivera completed his Ph.D. coursework and most of his doctoral research in two years while working as a researcher at the university, during which his research work came to the attention of international institutions such as the Mexican National Council of Science and Technology.
+
+Rivera is driven by 
 
 As an alumnus of the "CEMS - The Global Alliance in Management Education," he has lived and worked across South East Asia, Europe, Eastern Europe, and the Americas. These experiences have enabled him to be exposed to business cultures from different perspectives.
 
+He also holds a master degree in Big Data Systems from the Higher School of Economics in Moscow, Russia as well as a graduate certificate in Technology Management from the Center of Digital Technology and Management, a joint institution of the two universities in Munich, the Ludwig-Maximilians-Universität München (LMU) and the Technische Universität München (TUM).
 
