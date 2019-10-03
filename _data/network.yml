@@ -5,7 +5,7 @@
   class: "network-entypo"
   title: "Machine Learning Summer School"
 
-- name: "* Skolkovo Institute of Science & Technologh"
+- name: "* Skoltech"
   url: "http://skoltech.ru/"
   class: "services-newsletter"
   title: "Skoltech"
@@ -15,7 +15,7 @@
   class: "rss-link"
   title: "ADASE"
 
-- name: "* Center for Computational and Data-Intensive Science and Engineering"
+- name: "* CDISE"
   url: "https://crei.skoltech.ru/cdise"
   class: "sitemap-link"
   title: "CDISE"
