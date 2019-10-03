@@ -22,6 +22,10 @@
   url: "/teaching/"
   side: left
 
+- title: Outreach
+  url: "/outreach/"
+  side: left
+
 - title: "Blog"
   url: "/blog/"
   side: right

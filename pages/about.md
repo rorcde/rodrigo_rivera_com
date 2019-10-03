@@ -5,28 +5,25 @@ subheadline: "Rodrigo Rivera-Castro"
 permalink: "/about/"
 header: no
 image:
-    title: organizers_798x396.jpg
-    caption: Prof. Evgeny Burnaev, Skoltech
+    title: header_office_fab_indonesia_798x396.jpg
+    caption: Rodrigo entreneurially active in Indonesia
 ---
 
-Mark Girolami has had an unusual pathway to an active and distinguished research career in that the first decade after graduating from the University of Glasgow, he worked as a professional chartered engineer with IBM where he gained experience in high volume manufacturing, process automation, and electronic system design. He left IBM in his early thirties to start from scratch and undertake a PhD funded by National Cash Registers, the remit being to investigate the statistical signal processing required to support biometric speaker verification. 
+Rodrigo Rivera is a proven tech executive and nascent academic with numerous years of experience in managing analytics, data science, and machine learning. He has expertise leading management teams in data-driven decision making and in identifying market opportunities to drive revenues and profits in alignment with corporate needs with machine learning.
 
-Girolami completed the Ph.D. in two years while working at a further education college, during which his research work came to the attention of senior research leaders on the international stage, and invitations were extended for him to spend time at their research laboratories. In particular, Girolami worked at both the Computational Neurobiology Laboratory of Prof. T. Sejnowski at the Salk Institute of Biological Studies and the Brain Science Institute headed up by Prof S.I.Amari at the Institute of Physical and Chemical Research (RIKEN) in Wako-Shi, Tokyo.
+Rodrigo has had an unusual pathway to an active research career in that the first decade after graduating from the Technical University of Munich, he was entrepreneurially active as founder and CEO of Emplido, an Internet startup in the recruitment analytics space acquired by Experteer Inc in 2011.
 
-Proven executive with numerous years of high-level experience managing analytics, data science, business modeling, and strategic planning. Expertise leading management teams in data-driven decision making and identification of market opportunities to drive revenues and profits in alignment with corporate needs
+After a stint at Experteer Inc, Rodrigo was approached by Rocket Internet SE, one of the most substantial Internet holdings in the world publicly traded, to develop tools using data mining methods to automate customer management and advertising.
 
-Specialties: Strategic development, data science, statistical analysis, pricing optimization, primary and secondary research, data visualization and dashboards 
+The opportunity at Rocket Internet SE took him through an intrapreneurial adventure over five years across emerging markets. In southeast Asia, Rodrigo worked in Singapore, Malaysia, Indonesia, the Philippines, and Vietnam for OfficeFab, an online retailer for office staples, where he automated the sales acquisition process and customer relationship management. In the region, he was also involved with Lazada, acquired by Alibaba in 2016, and Zalora, a significant fashion online retailer.
 
-My expertise lies in growing revenues, market share, and brand footprint in highly competitive global markets. I have developed and executed on diverse strategies—from sales & marketing to digital initiatives; invigorated critical channel partner relationships; accelerated the success of new product launches for global brands; and assembled and developed top teams and leaders while steering transformations that align culture with overarching company strategy.
+As one of the first members of Rocket Internet ventures such as Foodpanda, food delivery, Lamudi, classifieds for real estate, Carmudi, classifieds for vehicles
 
-As an alumnus of the "CEMS - The Global Alliance in Management Education" living and working across South East Asia, Europe, Eastern Europe, and the Americas, I have been able to see the business side of things from a different perspective.
+As a tech manager, his expertise lies in developing machine-learning software with an emphasis on growing revenue, market share, and brand footprint in highly competitive environments.
 
-Some of my most recent successes leading Global Sales Development IQOS for Philip Morris included orchestrating strategy for omnichannel lead generation & management and referral programs.
+Rivera has developed and executed diverse IT strategies for sales and marketing. Through automation, he has invigorated critical acquisition channels for large e-commerce retailers, accelerated the success of new product launches in the consumer goods sector, and assembled and developed top teams and leaders while steering transformations that align culture with overarching company strategy.
 
-SPECIALTIES:
-- Global Strategy & Tactical Execution
-- Customer Acquisition & Marketing Innovation
-- Strategic Business Development & Growth
-- Digital - Link between business/technology and consumer
+Rivera completed his Ph.D. coursework and most of his doctoral research in two years while working as a researcher at the university, during which his research work came to the attention of international institutions such as the Mexican National Council of Science and Technology.
 
-Connect with me to learn more about how I deliver game-changing impact on revenues, profits, market share, and brand influence.
+As an alumnus of the "CEMS - The Global Alliance in Management Education," he has lived and worked across South East Asia, Europe, Eastern Europe, and the Americas. These experiences have enabled him to be exposed to business cultures from different perspectives.
+

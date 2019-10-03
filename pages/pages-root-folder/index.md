@@ -47,7 +47,7 @@ header:
 widget1:
   title: "Rodrigo Rivera"
   url: 'http://mlss.cc'
-  image: banner_rodrigo_cdtm
+  image: banner_rodrigo_cdtm.jpg
   text: 'Rodrigo is a Mexican researcher at the ADASE group part of the Skolkovo Institute of Science and Technology in Moscow, Russia. He brings more than 10 years of experience in the industry working on applied machine learning tasks for the e-commerce and FMCG sectors.'
 
 widget2:

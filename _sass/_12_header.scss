@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Leckerli+One');
 
 #particles-js {
   //background: $main;
   background: {
-    image: url('{{ "/kandinsky_background.jpg" | prepend: site.images }}');
-    position: center;
+    image: url('../../images/kandinsky_background.jpg');
+    position: bottom;
     repeat: no-repeat;
     color: $main;
     size: cover;
