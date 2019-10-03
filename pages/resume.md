@@ -6,21 +6,21 @@ permalink: "/cv/"
 header: no
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Rodrigo Rivera"
-resume_title:                   "Machine Learning Research"
+resume_name:                    "Rodrigo Rivera-Castro"
+#resume_title:                   "Machine Learning Research"
 resume_image: org_rodrigorivera_313x350.jpg
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "rodrigo.riveracastro@skoltech.ru"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "000000"
+resume_contact_address:         "Skolkovo Innovation Center, Building 3, 143026 Moscow, Russia"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • rodrigo.riveracastro@skoltech.ru"
+resume_header_contact_info:     "Skolkovo Innovation Center, Building 3, 143026 Moscow, Russia - rodrigo.riveracastro@skoltech.ru"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>International by design, speaking 5 languages, Rodrigo has worked on leadership roles in machine learning research and data science in South East Asia, the Americas and Europe with leading FMCG and Internet companies over the last 10 years. </p>"
+#resume_header_intro: "<p>International by design, speaking 5 languages, Rodrigo has worked on leadership roles in machine learning research and data science in South East Asia, the Americas and Europe with leading FMCG and Internet companies over the last 10 years. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -103,112 +103,126 @@ experience:
 # Degree
 education:
 - degree:
-    name: Bachelor of Arts, Human Rights
-    uni: Yale University
-    year: 2004 &mdash; 2008
-    awards:
-      - award:
-          name: Summa Cumme Laude graduate
-          summary: If you had any meaningful roles at college, feel free to write about them here
+    name: PhD in Computational and Data Science and Engineering
+    uni: Skolkovo Institute of Science and Technology
+#    year: 2017 &mdash; 2021 (expected)
+#    awards:
+#      - award:
+#          name: Summa Cumme Laude graduate
+#          summary: If you had any meaningful roles at college, feel free to write about them here
 - degree:
-    name: High School Diploma
-    uni: Springfield High School
-    year: 2004
-    award: Most likely to succeed
-    summary: You can choose to have either a single or multiple awards
+    name: Master in Big Data Systems
+    uni: Higher School of Economics
+#    year: 2015 &mdash; 2017
+#    award: Most likely to succeed
+#    summary: You can choose to have either a single or multiple awards
+- degree:
+    name: Master in Management
+    uni: CEMS
+#    year: 2011 &mdash; 2013
+    award: Best Student Research Work
+#    summary: You can choose to have either a single or multiple awards
+- degree:
+    name: Graduate Certificate in Technology Management
+    uni: Center for Digital Technology and Management
+#    year: 2009 &mdash; 2011
+- degree:
+    name: Bsc. Information Systems
+    uni: Technical University of Munich
+#    year: 2008 &mdash; 2011
 
 # Associations
 # comment out the urls if you do not wish to display them
-associations:
-- organization:
-    name: Alibaba
-    role: Machine Learning Advisor
-    year: 2019 &mdash; Today
-    url: https://www.alibaba.com
-    summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
-- organization:
-    name: Huawei
-    role: Machine Learning Advisor
-    year: 2018 &mdash; 2019
-    url: http://campuspress.yale.edu/amnesty/
-    summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
-- organization:
-    name: Philip Morris International
-    role: Manager Data Science
-    year: 2016 &mdash; 2018
-    url: http://campuspress.yale.edu/amnesty/
-    summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
-- organization:
-    name: Linio
-    role: Head of Machine Learning
-    year: 2016 &mdash; 2018
-    url: http://campuspress.yale.edu/amnesty/
-    summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+#associations:
+#- organization:
+#    name: Alibaba
+#    role: Machine Learning Advisor
+#    year: 2019 &mdash; Today
+#    url: https://www.alibaba.com
+#    summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+#- organization:
+#    name: Huawei
+#    role: Machine Learning Advisor
+#    year: 2018 &mdash; 2019
+#    url: http://campuspress.yale.edu/amnesty/
+#    summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+#- organization:
+#    name: Philip Morris International
+#    role: Manager Data Science
+#    year: 2016 &mdash; 2018
+#    url: http://campuspress.yale.edu/amnesty/
+#    summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+#- organization:
+#    name: Linio
+#    role: Head of Machine Learning
+#    year: 2016 &mdash; 2018
+#    url: http://campuspress.yale.edu/amnesty/
+#    summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
 
 
 # Interests
-interests:
-- description: Human rights and world affairs
-- description: Music (baritone saxiphonist)
-- description: Linguistics
+#interests:
+#- description: Human rights and world affairs
+#- description: Music (baritone saxiphonist)
+#- description: Linguistics
 
 
 # links
-links:
-- url:
-    url: "#"
-    description: Springfield Jazz Enthusiasts
-- url:
-    url: "#"
-    description: Springfield Young Professionals
+#links:
+#- url:
+#    url: "#"
+#    description: Springfield Jazz Enthusiasts
+#- url:
+#    url: "#"
+#    description: Springfield Young Professionals
 
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
-projects:
+#projects:
  # jazznotes.io
-- project:
-    name: jazznotes.io
-    role: Founder & Primary Developer
-    duration: 2012 &mdash; Present
+#- project:
+#    name: jazznotes.io
+#    role: Founder & Primary Developer
+#    duration: 2012 &mdash; Present
     # url: "#"
-    description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+#    description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
  # Springfield Community Outreach Group
-- project:
-    name: Springfield Community Outreach Group
-    role: Co-Founder & Organizer
-    duration: 2007 &mdash; Present
-    # url: "#"
-    description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+#- project:
+#    name: Springfield Community Outreach Group
+#    role: Co-Founder & Organizer
+#    duration: 2007 &mdash; Present
+#    # url: "#"
+#    description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
 
 
 # Recognitions
-recognitions:
-- award:
-    name: Outstanding Achievement
-    organization: Springfield Young Professionals
-    year: 2010, 2014
-    summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
-- award:
-    name: Most Likely To Succeed
-    organization: Springfield High School
-    year: 2004
-    summary: Voted Most Likely To Succeed by a panel of my high school peers.
+#recognitions:
+#- award:
+#    name: Outstanding Achievement
+#    organization: Springfield Young Professionals
+#    year: 2010, 2014
+#    summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+#- award:
+#    name: Most Likely To Succeed
+#    organization: Springfield High School
+#    year: 2004
+#    summary: Voted Most Likely To Succeed by a panel of my high school peers.
 
 
 # Skills
-skills:
+#skills:
 # Organizational leadership
-- skill:
-    name: Organizational leadership
-    description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+#- skill:
+#    name: Organizational leadership
+#    description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 # Communications strategy
-- skill:
-    name: Communications strategy
-    description: Content and marketing strategy,
+#- skill:
+#    name: Communications strategy
+#    description: Content and marketing strategy,
 # Digital content development and creation
-- skill:
-    name: Digital content development and creation
-    description: Copy writing, graphic design, web design, front-end web development, print design
+#- skill:
+#    name: Digital content development and creation
+#    description: Copy writing, graphic design, web design, front-end web development, print design
 ---
 
 
