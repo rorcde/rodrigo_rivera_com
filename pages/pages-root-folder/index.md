@@ -55,6 +55,9 @@ header:
   - link:
       label: ArXiv
       href: http://arxiv.org/a/rivera_r_1
+  - link:
+      label: ResearchGate
+      href: https://www.researchgate.net/profile/Rodrigo_Rivera-Castro
 
 widget1:
   title: "Rodrigo Rivera"
@@ -66,7 +69,7 @@ widget2:
   title: "Research"
   url: 'http://www.skoltech.ru'
   image: banner_mlss.jpg
-  text: 'His research intersects the areas of Machine Learning and Topological Data Analysis for time series and graph data. He seeks to advance the theory to provide applications in the areas of demand prediction, and user modeling with an emphasis on robust machine-learning software that can be deployed in the enterprise.'
+  text: 'His research intersects the areas of Machine Learning and Topological Data Analysis for time series and graph data. He seeks to advance the theory to provide applications in the areas of demand prediction, and user modeling with an emphasis on robust machine-learning software that can be deployed to address societal problems.'
 
 widget3:
   title: "Outreach"
