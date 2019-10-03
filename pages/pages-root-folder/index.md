@@ -13,10 +13,6 @@ header:
 
   social_links:
   - link:
-      label: Send email
-      href: mailto:rodrigo.riveracastro@skoltech.ru
-      class: fas fa-envelope
-  - link:
       label: My Twitter
       href: http://www.twitter.com/RodrigoRivr
       class: fab fa-twitter
