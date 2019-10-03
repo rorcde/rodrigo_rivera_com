@@ -8,6 +8,7 @@ header: no
 resume_avatar:                  "true"
 resume_name:                    "Rodrigo Rivera"
 resume_title:                   "Machine Learning Research"
+resume_image: org_rodrigorivera_313x350.jpg
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "rodrigo.riveracastro@skoltech.ru"

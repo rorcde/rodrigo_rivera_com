@@ -1,33 +1,29 @@
-- title: MLSS2019
+- title: Rodrigo Rivera-Castro
   url: "/"
   side: left
 
-- title: Speakers & Topics
-  url: "/speakers-topics/"
+- title: About
+  url: "/about/"
   side: left
 
-- title: Schedule
-  url: "/schedule/"
+- title: CV
+  url: "/cv/"
   side: left
 
-- title: Venue
-  url: "/venue/"
-  side: left
-  
-- title: Organizers
-  url: "/organizers/"
+- title: Research
+  url: "/research/"
   side: left
 
-- title: Travel
-  url: "/travel/"
-  side: left
-  
-- title: FAQ
-  url: "/faq/"
+- title: Publications
+  url: "/publications/"
   side: left
 
-- title: "Application"
-  url: "/application/"
+- title: Teaching
+  url: "/teaching/"
+  side: left
+
+- title: "Blog"
+  url: "/blog/"
   side: right
 
 - title: "Contact"

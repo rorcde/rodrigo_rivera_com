@@ -56,24 +56,26 @@
   	<div id="particles-js">
   <div class="header">
       <h1>
-        <span class="site-title">site.username</span>
-        <span class="site-description">site.user_title</span>
-      </h1>
-      <div class="header-icons">
-        <a aria-label="Send email" href="mailto:rodrigo.riveracastro@skoltech.ru"><i class="icon fas fa-envelope"></i></a>
-        <a aria-label="My Twitter" target="_blank" href="http://www.twitter.com/RodrigoRivr"><i class="icon fab fa-twitter" aria-hidden="true"></i></a>
-        <a aria-label="My Keybase" target="_blank" href="#"><i class="icon fab fa-keybase" aria-hidden="true"></i></a>
-		<a aria-label="My Github" target="_blank" href="http://www.github.com/rodrigorivera"><i class="icon fab fa-github-alt" aria-hidden="true"></i></a>
-		<a aria-label="My LinkedIn" target="_blank" href="https://www.linkedin.com/in/riverarodrigo/"><i class="icon fab fa-linkedin" aria-hidden="true"></i></a>
-      </div>
+        <span class="site-title"> {{page.header.site_title}}</span>
+        <span class="site-description">{{page.header.site_description}}</span>
+	  </h1>
+	{% if page.header.social_links %}
+    <div class="header-icons">
+		{% for social_link in page.header.social_links %}
+		<a aria-label="{{ social_link.link.label }}" href="{{ social_link.link.href }}"><i class="icon {{ social_link.link.class }}"></i></a>
+		{% endfor %}
+	</div>
+	{% endif %}
+	{% if page.header.text_links %}
       <div class="header-links">
-        <a class="link" href="#about" data-scroll>About Me</a>
-        <a class="link" href="#projects" data-scroll>Projects</a>
-      </div>
+		{% for text_link in page.header.text_links %}
+			<a class="link" href="{{ text_link.link.href }}">{{ text_link.link.label }}</a>
+		{% endfor %}
+	  </div>
+	  {% endif %}
   </div>
   <a class="down" href="#about" data-scroll><i class="icon fa fa-chevron-down" aria-hidden="true"></i></a>
 </div>
-  
   </div>
 </div>
 

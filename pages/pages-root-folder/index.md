@@ -8,26 +8,59 @@ layout: frontpage
 header:
 #  image_fullwidth: header_mlss-skoltech.jpg
   particles: true
+  site_title: Rodrigo Rivera-Castro
+  site_description: Machine Learning Research
+
+  social_links:
+  - link:
+      label: Send email
+      href: mailto:rodrigo.riveracastro@skoltech.ru
+      class: fas fa-envelope
+  - link:
+      label: My Twitter
+      href: http://www.twitter.com/RodrigoRivr
+      class: fab fa-twitter
+  - link:
+      label: My Keybase
+      href: https://keybase.io/rodrigorivera
+      class: fab fa-keybase
+  - link:
+      label: My Github
+      href: http://www.github.com/rodrigorivera
+      class: fab fa-github-alt
+  - link:
+      label: My LinkedIn
+      href: https://www.linkedin.com/in/riverarodrigo/
+      class: fab fa-linkedin
+
+  text_links:
+  - link:
+      label: Google Scholar
+      href: https://scholar.google.com/citations?user=nQGmpjUAAAAJ&hl=en
+  - link:
+      label: ORCID ID
+      href: https://orcid.org/0000-0001-9230-7226
+  - link:
+      label: ArXiv
+      href: http://arxiv.org/a/rivera_r_1
+
 widget1:
-  title: "Machine Learning Summer School"
+  title: "Rodrigo Rivera"
   url: 'http://mlss.cc'
-  image: banner_mlss.jpg
-  text: 'The Machine Learning Summer School (MLSS) will be held at Skoltech in Moscow, Russia, from Aug. 26 to Sep. 6, 2019. 
-  The MLSS presents topics at the core of modern machine learning, from fundamentals to state-of-the-art practice.  
-  It is offered to PhD students, but also to researchers and professionals. 
-  Its speakers are leading academic and industry experts.' 
+  image: banner_rodrigo_cdtm
+  text: 'Rodrigo is a Mexican researcher at the ADASE group part of the Skolkovo Institute of Science and Technology in Moscow, Russia. He brings more than 10 years of experience in the industry working on applied machine learning tasks for the e-commerce and FMCG sectors.'
+
 widget2:
-  title: "Skoltech"
+  title: "Research"
   url: 'http://www.skoltech.ru'
-  image: banner_skoltech.jpg
-  text: 'Skoltech is a leading research university founded by a group of nine Russian institutions and organizations in collaboration with the Massachusetts Institute of Technology (MIT). 
-  Among others, it aims at the conduction of cross-cutting interdisciplinary research driven by modern applications in the fields of computational and data sciences.'
+  image: banner_mlss.jpg
+  text: 'His research intersects the areas of Machine Learning and Topological Data Analysis for time series and graph data. He seeks to advance the theory to provide applications in the areas of demand prediction, and user modeling with an emphasis on robust machine-learning software that can be deployed in the enterprise.'
+
 widget3:
-  title: "Moscow"
-  url: '/venue/'
-  image: banner_moscow.jpg
-  text: 'Moscow is the capital of Russia and one of the largest cities in Europe. A historic town with modern infrastructure easily reachable from all major cities. 
-  Located on the river Moskva, in the west of the country, its landmarks include the Red Square, the Bolshoi Theatre, the Gorky Park, VDNH and the Tretyakov gallery.'
+  title: "Outreach"
+  url: 'http://mlss2019.skoltech.ru'
+  image: banner_outreach.jpg
+  text: 'Rodrigo is very keen on promoting Machine Learning scholarly through academic outreach activities. Two examples of this are his involvement as a co-organizer of the Machine Learning Summer School 2019 in Moscow and the Machine Learning Open Community Day 2019 at Skoltech.'
 
 #  
 # Use the call for action to show a button on the frontpage
@@ -39,10 +72,10 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: /application
-  text: Apply now ›
-  style: alert
+#callforaction:
+#  url: /application
+#  text: Apply now ›
+#  style: alert
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight

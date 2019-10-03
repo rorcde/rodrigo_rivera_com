@@ -3,7 +3,7 @@
 #particles-js {
   //background: $main;
   background: {
-    image: url(https://imagenes.museothyssen.org/sites/default/files/imagen/obras/descarga/1977.77_tension-suave-no-85.jpg);
+    image: url('{{ "/kandinsky_background.jpg" | prepend: site.images }}');
     position: center;
     repeat: no-repeat;
     color: $main;
