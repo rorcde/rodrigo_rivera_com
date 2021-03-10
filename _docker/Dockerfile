@@ -1,2 +1,2 @@
-FROM jekyll/builder:3.8
+FROM jekyll/builder
 EXPOSE 8888 6006
