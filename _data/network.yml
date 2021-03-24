@@ -1,5 +1,10 @@
 - menu_name: "Associations"
 
+- name: "* SMILES"
+  url: "http://smiles.skoltech.ru/"
+  class: "network-entypo"
+  title: "The School of Machine Learning at Skoltech"
+
 - name: "* MLSS"
   url: "http://mlss.cc/"
   class: "network-entypo"

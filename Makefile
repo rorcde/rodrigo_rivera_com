@@ -10,7 +10,7 @@ TAG:=$(shell cat ${VERSION_FILE})
 VOLUME:=/mnt/$(PROJECT)
 
 COMPOSE_PARAMETERS := \
-	-f docker/docker-compose.yml \
+	-f _docker/docker-compose.yml \
 	--project-name $(CONT)
 
 #DOCKER_PARAMETERS := \
