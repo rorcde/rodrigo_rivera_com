@@ -55,23 +55,24 @@ header:
       label: ResearchGate
       href: https://www.researchgate.net/profile/Rodrigo_Rivera-Castro
 
+
 widget1:
   title: "Rodrigo Rivera"
   url: 'http://mlss.cc'
   image: banner_rodrigo_cdtm.jpg
-  text: 'Rodrigo is a Mexican researcher at the ADASE group part of the Skolkovo Institute of Science and Technology in Moscow, Russia. He brings more than 10 years of experience in the industry working on applied machine learning tasks for the e-commerce and FMCG sectors.'
+  text: 'Rodrigo is a Mexican German researcher at the ADASE group part of Skoltech in Moscow, Russia. He brings more than twelve years of experience working on applied machine learning tasks for the e-commerce, technology, and FMCG sectors.'
 
 widget2:
   title: "Research"
   url: 'http://www.skoltech.ru'
   image: banner_mlss.jpg
-  text: 'His research intersects the areas of Machine Learning and Topological Data Analysis for time series and graph data. He seeks to advance the theory to provide applications in the areas of demand prediction, and user modeling with an emphasis on robust machine-learning software that can be deployed to address societal problems.'
+  text: 'His research intersects the areas of Machine Learning and Topological Data Analysis for time series and graph data. He seeks to advance the theory to provide forecasting and user modeling applications, emphasizing robust machine-learning software to address societal problems.'
 
 widget3:
   title: "Outreach"
   url: 'http://mlss2019.skoltech.ru'
   image: banner_outreach.jpg
-  text: 'Rodrigo is very keen on promoting Machine Learning scholarly through academic outreach activities. Two examples of this are his involvement as a co-organizer of the Machine Learning Summer School 2019 in Moscow and the Machine Learning Open Community Day 2019 at Skoltech.'
+  text: 'Rodrigo is very keen on promoting Machine Learning scholarly through academic outreach activities. Two examples of this are co-organizing international events such as SMILES in 2021 and 2020 and MLSS in 2019.'
 
 #  
 # Use the call for action to show a button on the frontpage
