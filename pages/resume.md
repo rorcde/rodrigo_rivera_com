@@ -55,14 +55,19 @@ resume_print_social_links:      true
 # Jobs
 experience:
 - company:
-    name: Alibaba
-    position: Machine Learning Advisor
-    duration: 2019 &mdash; Present
-    #summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-- company:
     name: ADASE
     position: Researcher
     duration: 2017 &mdash; Present
+    #summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company:
+    name: Samsung NEXT
+    position: Technical Director
+    duration: 2021
+    #summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company:
+    name: Alibaba
+    position: Machine Learning Advisor
+    duration: 2019 &mdash; 2020
     #summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 - company:
     name: Huawei
@@ -104,7 +109,7 @@ experience:
 education:
 - degree:
     name: PhD in Computational and Data Science and Engineering
-    uni: Skolkovo Institute of Science and Technology
+    uni: Skoltech
 #    year: 2017 &mdash; 2021 (expected)
 #    awards:
 #      - award:
@@ -131,7 +136,7 @@ education:
     uni: Technical University of Munich
 #    year: 2008 &mdash; 2011
 
-# Associations
+#Associations
 # comment out the urls if you do not wish to display them
 #associations:
 #- organization:

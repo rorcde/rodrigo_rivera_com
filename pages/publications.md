@@ -9,6 +9,8 @@ image:
     caption: Rodrigo at the Machine Learning Summer School in Arequipa
 ---
 
+For a complete list, please feel free to visit [Google Scholar](https://scholar.google.com/citations?hl=en&user=nQGmpjUAAAAJ&view_op=list_works&sortby=pubdate)
+
 Publications as First Author with a WoS Index and Core Ranking:
 ### 2019
 #### IEEE ICDM Workshop on Blockchain Data Analytics
