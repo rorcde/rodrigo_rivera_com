@@ -78,11 +78,13 @@ evaluate: ## Run all experiments
 
 dev-start: ## Primary make command for devs, spins up containers
 	@echo "Building new images from compose"
+	sudo service docker start
 	$(DOCK_PARAMS) docker-compose $(COMPOSE_PARAMETERS) up -d --build
 
 dev-stop: ## Spin down active containers
 	@echo "Shut down all containers"
 	$(DOCK_PARAMS) docker-compose $(COMPOSE_PARAMETERS) down
+	sudo service docker stop
 
 docs: ## Build docs using Sphinx and copy to docs folder (this makes it easy to publish to gh-pages)
 	docker exec -e GRANT_SUDO=yes $(CONTAINER_NAME) bash -c "cd docsrc; make html"
