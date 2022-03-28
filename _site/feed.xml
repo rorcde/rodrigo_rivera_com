@@ -4,7 +4,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Rodrigo Rivera - Machine Learning Researcher</title>
-		<description>International by design, speaking five languages, Rodrigo is a Mexican German machine-learning researcher at the ADASE group part of Skoltech  in Moscow, Russia. He has worked on leadership roles in machine learning research and data science in South East Asia, the Americas, and Europe  with leading FMCG, Internet, and electronic companies over the last fourteen years.
+		<description>International by design, speaking five languages, Rodrigo is a Mexican German machine-learning researcher. He has worked on leadership roles in machine learning research and data science in South East Asia, the Americas, and Europe  with leading FMCG, Internet, and electronic companies over the last fourteen years.
 </description>
 		<link>/</link>
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />

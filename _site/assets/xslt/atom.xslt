@@ -31,7 +31,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="International by design, speaking five languages, Rodrigo is a Mexican German machine-learning researcher at the ADASE group part of Skoltech  in Moscow, Russia. He has worked on leadership roles in machine learning research and data science in South East Asia, the Americas, and Europe  with leading FMCG, Internet, and electronic companies over the last fourteen years.">
+	<meta name="description" content="International by design, speaking five languages, Rodrigo is a Mexican German machine-learning researcher. He has worked on leadership roles in machine learning research and data science in South East Asia, the Americas, and Europe  with leading FMCG, Internet, and electronic companies over the last fourteen years.">
 	<meta name="google-site-verification" content="">
 	<meta name="msvalidate.01" content="" >
 	
@@ -43,7 +43,7 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
-	<meta property="og:description" content="International by design, speaking five languages, Rodrigo is a Mexican German machine-learning researcher at the ADASE group part of Skoltech  in Moscow, Russia. He has worked on leadership roles in machine learning research and data science in South East Asia, the Americas, and Europe  with leading FMCG, Internet, and electronic companies over the last fourteen years.">
+	<meta property="og:description" content="International by design, speaking five languages, Rodrigo is a Mexican German machine-learning researcher. He has worked on leadership roles in machine learning research and data science in South East Asia, the Americas, and Europe  with leading FMCG, Internet, and electronic companies over the last fourteen years.">
 	<meta property="og:url" content="/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
@@ -392,7 +392,7 @@
             <h5 class="shadow-black">About Rodrigo</h5>
 
             <p class="shadow-black">
-              International by design, speaking five languages, Rodrigo is a Mexican German machine-learning researcher at the ADASE group part of Skoltech  in Moscow, Russia. He has worked on leadership roles in machine learning research and data science in South East Asia, the Americas, and Europe  with leading FMCG, Internet, and electronic companies over the last fourteen years.
+              International by design, speaking five languages, Rodrigo is a Mexican German machine-learning researcher. He has worked on leadership roles in machine learning research and data science in South East Asia, the Americas, and Europe  with leading FMCG, Internet, and electronic companies over the last fourteen years.
 
             </p>
           </div><!-- /.large-6.columns -->
@@ -503,7 +503,7 @@
       <div id="subfooter" class=".hide-for-print">
         <nav class="row .hide-for-print">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <p>Rodrigo is a machine learning researcher at the <a href="http://adase.group">ADASE</a> group in <a href="http://skoltech.ru">Skoltech</a>.</p> 
+            <p>Rodrigo is a machine learning researcher, entrepreneur and technical leader in data science.</p> 
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
