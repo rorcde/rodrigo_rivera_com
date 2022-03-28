@@ -39,7 +39,7 @@ header:
   - link:
       label: My Substack
       href: https://mindcustomer.substack.com/
-      class: fab fa-instagram
+      class: fab fa-envelopes-bulk
 
   text_links:
   - link:
