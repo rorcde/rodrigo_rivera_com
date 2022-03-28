@@ -15,12 +15,11 @@ slogan: 'Rodrigo Rivera - Machine Learning Researcher'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: >
-  International by design, speaking five languages, Rodrigo is a Mexican German machine-learning researcher at the ADASE group part of Skoltech 
-  in Moscow, Russia. He has worked on leadership roles in machine learning research and data science in South East Asia, the Americas, and Europe 
+  International by design, speaking five languages, Rodrigo is a Mexican German machine-learning researcher. He has worked on leadership roles in machine learning research and data science in South East Asia, the Americas, and Europe 
   with leading FMCG, Internet, and electronic companies over the last fourteen years.
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Rodrigo is a machine learning researcher at the <a href="http://adase.group">ADASE</a> group in <a href="http://skoltech.ru">Skoltech</a>.</p> '
+credits: '<p>Rodrigo is a machine learning researcher, entrepreneur and technical leader in data science.</p> '
 
 
 # Main author of the website
