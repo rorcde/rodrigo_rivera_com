@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Rodrigo Rivera - Machine Learning Researcher</title>
+		<description>International by design, speaking five languages, Rodrigo is a Mexican German machine-learning researcher at the ADASE group part of Skoltech  in Moscow, Russia. He has worked on leadership roles in machine learning research and data science in South East Asia, the Americas, and Europe  with leading FMCG, Internet, and electronic companies over the last fourteen years.
+</description>
+		<link>/</link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>It has been more than a year (again)</title>
+				<link>/updates/</link>
+				<pubDate>Mon, 28 Mar 2022 00:00:00 -0500</pubDate>
+				<description>&lt;p&gt;It is always incredible how time can pass. A year ago, I came back from Berlin and wrote an update post for this website. Since that happened, a lot has changed. In the last 12 months, I have had the opportunity to spend time in eight countries. I was able to conclude many phases in life and start others. I am still serving as a bridge between industry and academia, trying to cross-pollinate and bring applied innovation.
+For this website, I am unsure what its future should be. I always wanted to keep here a regular blog. It is, however, not very easy to update and the website itself is not highly tailored for SEO and other marketing optimization techniques. There is also the topic of distribution, how to reach a large audience? Possibly, writing regularly for something such as substack is the better option. On this matter, I am keen on developing ideas around what I call “Product-led Data Science.” The objective is to present and debate techniques around machine learning and data science that help improve digital products, address the users and customers of those products better, and help the businesses behind maximize their profits. I am undecided on the audience for this type of content. It is not for the academic, but there are enormous possibilities that I could address within the practitioner community. Possibly, for the marketing expert, it might be too technical. One persona might be the “Technical Marketing Lead” and another one the “Data Science Expert who wants to get more domain knowledge.”
+The next question is on the type of content. Should it be tutorials or rather interviews? Should I write rants and diatribes? Or should I spend time trying to summarize and digest the latest developments in the space? I also do not have here an exact idea. I know that it should be something where I can output one article per week. Possibly, one option might be introductory articles on famous data science topics but applied to product-led, for example, “clustering customers.” Likely, I should start writing and see the reactions. In the end, regularity and discipline trumps talent 
+So, this is where I currently stand, and I am sure that you will see more soon. Hopefully, it will not be so that there will be a year without updates again.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/updates/</guid>
+			</item>
+		
+			<item>
+				<title>It has been more than a year</title>
+				<link>/updates/</link>
+				<pubDate>Wed, 24 Mar 2021 00:00:00 -0500</pubDate>
+				<description>&lt;p&gt;I had forgotten this website for some time. I have been somewhat active on Notion, but this is about to change. I notice that this layout is suboptimal for long texts. However, I do not have the capacity at the moment to work on a redesign. I will start copying my notes from Notion or just directly link them and share them.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/updates/</guid>
+			</item>
+		
+			<item>
+				<title>Friday reflection</title>
+				<link>/freitagsreflexion/</link>
+				<pubDate>Fri, 21 Feb 2020 00:00:00 -0600</pubDate>
+				<description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;What was my focus / top priority / most important goal this week?
+This week I do not believe I had a top priority. I had to help students with their research. I also had to study for the Elementaere Zahlentheorie exam. In general, I had to organize my thoughts on my upcoming projects. On top, meetings related to this summer’s event took a lot of time and energy. I also held a tutorial on feature selection.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What was my level of attention to it in%? 
+Probably low.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Where was my attention? What distracted you? 
+There were too many things happening at the same time. That was distracting.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What worked “well” this week? (Please explain what you mean by “good”).
+It worked well that I had to present a tutorial. The deadline. The time pressure. That was good.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What worked “less well” this week? (Please explain what you mean by “less good”).
+Too many things were happening. There was a lack of focus. I also have exam deadlines, and I was not productive in that regard.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What was my part in it? And what do I learn from it? 
+I have learned, although this is something that I already know, that I need more focus and prioritize the right things. I also need a system to avoid distractions&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;My conclusion for this week:
+Focus is key. An organizer is the only way to achieve it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;On a satisfaction scale from 0 = “terrible week”, I am totally dissatisfied with me to 10 = “excellent week, could not have been better” I give the week one: 
+3&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I praise myself after this week for
+Having been physically active and level 65 in Freeletics&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+				<guid isPermaLink="true">/freitagsreflexion/</guid>
+			</item>
+		
+			<item>
+				<title>Friday reflection</title>
+				<link>/freitagsreflexion/</link>
+				<pubDate>Sat, 08 Feb 2020 00:00:00 -0600</pubDate>
+				<description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;What was my focus / top priority / most important goal this week?
+My top priority was to finish my submission for ICML&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What was my level of attention to it in%? 
+I would say it was fairly high. We were busy moving to a new apartment and I had to help with that, but otherwise I was primarily focused on getting the publication ready.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Where was my attention? What distracted you? 
+I tend to get distracted easily and specially towards the last part of the research, when the manuscript must be prepared, I tend to procastinate a lot.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What worked “well” this week? (Please explain what you mean by “good”).
+The pressure to submit to a relevant venue was significant and as such helped me.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What worked “less well” this week? (Please explain what you mean by “less good”).
+Our approach was still suboptimal and we realized it only until 3am before the deadline. In the end, we were not able to submit.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What was my part in it? And what do I learn from it? 
+It was quite significant as I was leading the research. I should have seen in advance that it would not be realistic to finish this on time and with high quality. My learning remains what I told myself at the beginning of the year and I have not been able yet to fulfill: If two weeks before the deadline, there is no manuscript ready, it is unlikely that the work will be of high quality.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;My conclusion for this week:
+My work-life balance is at the moment non-existing. I have been sleeping very little and far from excercising as I want. Also, I am overwhelmed with activities. My conclusion is that I must be more targeted and choose things to drop. I must prioritize health.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;On a satisfaction scale from 0 = “terrible week”, I am totally dissatisfied with me to 10 = “excellent week, could not have been better” I give the week one: 
+4&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I praise myself after this week for
+Having started this learning diary&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+				<guid isPermaLink="true">/freitagsreflexion/</guid>
+			</item>
+		
+			<item>
+				<title>List of Machine Learning, Artificial Intelligence and Data Mining Conferences in 2020</title>
+				<link>/ml-conferences/</link>
+				<pubDate>Tue, 22 Oct 2019 00:00:00 -0500</pubDate>
+				<description>&lt;h1 id=&quot;list-of-top-conferences&quot;&gt;List of Top Conferences&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Created By:&lt;/em&gt;&lt;/strong&gt; Rodrigo Rivera
+&lt;strong&gt;&lt;em&gt;Last Edited:&lt;/em&gt;&lt;/strong&gt; Oct 22, 2019 2:20 PM&lt;/p&gt;
+
+&lt;p&gt;This is the list of conferences that I will consider next year for contributions.&lt;/p&gt;
+
+&lt;h1 id=&quot;list-of-ml-and-data-mining-conferences&quot;&gt;List of Ml and Data Mining Conferences&lt;/h1&gt;
+&lt;p&gt;The conferences had a CORE Ranking of A or better in 2018.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Conference Name&lt;/th&gt;
+      &lt;th&gt;Core Ranking 2018&lt;/th&gt;
+      &lt;th&gt;Deadline&lt;/th&gt;
+      &lt;th&gt;Tags&lt;/th&gt;
+      &lt;th&gt;Website&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ACM SIGKDD International Conference on Knowledge discovery and data mining (KDD)&lt;/td&gt;
+      &lt;td&gt;A*&lt;/td&gt;
+      &lt;td&gt;TBD&lt;/td&gt;
+      &lt;td&gt;applied-track,data-mining,research-track&lt;/td&gt;
+      &lt;td&gt;https://www.kdd.org/kdd2020/&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;IEEE International Conference on Data Mining (ICDM)&lt;/td&gt;
+      &lt;td&gt;A*&lt;/td&gt;
+      &lt;td&gt;TBD&lt;/td&gt;
+      &lt;td&gt;data-mining&lt;/td&gt;
+      &lt;td&gt;http://icdm.bigke.org/&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;The Web Conference (WWW)&lt;/td&gt;
+      &lt;td&gt;A*&lt;/td&gt;
+      &lt;td&gt;https://d2j5qxz6l1tgip.cloudfront.net/images/important-dates.svg&lt;/td&gt;
+      &lt;td&gt;data-mining&lt;/td&gt;
+      &lt;td&gt;https://www2020.thewebconf.org/&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ACM International Conference on Web Search and Data Mining (WSDM)&lt;/td&gt;
+      &lt;td&gt;A*&lt;/td&gt;
+      &lt;td&gt;Paper Abstracts Due	August 12, 2019 Papers Due	August 16, 2019 Paper Notifications	October 12, 2019 Conference Dates	February 3-7, 2020&lt;/td&gt;
+      &lt;td&gt;data-mining,research-track&lt;/td&gt;
+      &lt;td&gt;http://www.wsdm-conference.org/2020/&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;European Conference on Machine learning and knowledge discovery in databases (ECML PKDD)&lt;/td&gt;
+      &lt;td&gt;A&lt;/td&gt;
+      &lt;td&gt;Abstract Submission Deadline: March 19, 2020 Paper Submission Deadline: March, 26 2020 Author Notification: June 04, 2020 Camera Ready Submission: TBA&lt;/td&gt;
+      &lt;td&gt;applied-track,data-mining,research-track&lt;/td&gt;
+      &lt;td&gt;https://ecmlpkdd2020.net/&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)&lt;/td&gt;
+      &lt;td&gt;A&lt;/td&gt;
+      &lt;td&gt;14 Oct 2019 Workshop proposal due 21 Oct 2019 Workshop notification 31 Oct 2019 Workshop call for papers 18 Nov 2019 Abstract submission due (Conference Papers) 25 Nov 2019 Paper submission due (Conference Papers)&lt;/td&gt;
+      &lt;td&gt;data-mining&lt;/td&gt;
+      &lt;td&gt;https://www.pakdd2020.org/&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;SIAM International Conference on Data Mining (SDM)&lt;/td&gt;
+      &lt;td&gt;A&lt;/td&gt;
+      &lt;td&gt;Abstract Submission Deadline Date: October 4, 2019,11:59 p.m. (U.S. Pacific Time). Paper Submission Deadline Date: October 11, 2019, 11:59 p.m. (U.S. Pacific Time)&lt;/td&gt;
+      &lt;td&gt;applied-track,data-mining,research-track&lt;/td&gt;
+      &lt;td&gt;https://www.siam.org/conferences/cm/conference/sdm20&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;IEEE International Conference on Data Engineering (ICDE)&lt;/td&gt;
+      &lt;td&gt;A*&lt;/td&gt;
+      &lt;td&gt;First Round: Abstract submission due: June 8, 2019 Submission due: June 15, 2019 Notification to authors (Accept/Revise/Reject): August 10, 2019 Revisions due: September 11, 2019 Notification to authors (Accept/Reject): October 2, 2019 Camera-ready copy due: November 1, 2019  Second Round: Abstract submission due: October 8, 2019 (Paper submission site CMT opens on September 15th) Submission due: October 15, 2019 Notification to authors (Accept/Revise/Reject): December 14th, 2019 Revisions due: January 17th, 2020 Notification to authors (Accept/Reject): February 7, 2020 Camera-ready copy due: February 28, 2020&lt;/td&gt;
+      &lt;td&gt;applied-track,data-mining,research-track&lt;/td&gt;
+      &lt;td&gt;https://www.utdallas.edu/icde/&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ACM International Conference on Information and Knowledge Management (CIKM)&lt;/td&gt;
+      &lt;td&gt;A&lt;/td&gt;
+      &lt;td&gt;TBD&lt;/td&gt;
+      &lt;td&gt;applied-track,data-mining,research-track&lt;/td&gt;
+      &lt;td&gt;https://cikm2020.org/&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Conference on Uncertainty in Artificial Intelligence (UAI)&lt;/td&gt;
+      &lt;td&gt;A*&lt;/td&gt;
+      &lt;td&gt;TBD&lt;/td&gt;
+      &lt;td&gt;artificial-intelligence,machine-learning&lt;/td&gt;
+      &lt;td&gt;TBD&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Conference on Neural Information Processing Systems (NIPS)&lt;/td&gt;
+      &lt;td&gt;A*&lt;/td&gt;
+      &lt;td&gt;TBD&lt;/td&gt;
+      &lt;td&gt;machine-learning,research-track&lt;/td&gt;
+      &lt;td&gt;https://nips.cc/&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;International Conference of Machine Learning (ICML)&lt;/td&gt;
+      &lt;td&gt;A*&lt;/td&gt;
+      &lt;td&gt;Abstract submission deadline of Feb. 7, 2020, 3:59 a.m. pacific, 23:59 Universal time ( 15 weeks 03 days 00:42:49 )   Full paper submission deadline of pacific ( 00 weeks 00 days 00:00:00 )  Submissions will open on Jan. 7, 2020, 6 a.m. pacific time and are managed through CMT:&lt;/td&gt;
+      &lt;td&gt;machine-learning,research-track&lt;/td&gt;
+      &lt;td&gt;https://icml.cc/Conferences/2020/&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)&lt;/td&gt;
+      &lt;td&gt;A&lt;/td&gt;
+      &lt;td&gt;- Abstract Submission Deadline: March 19, 2020 - Paper Submission Deadline: March, 26 2020 - Author Notification: June 04, 2020 - Camera Ready Submission: TBA&lt;/td&gt;
+      &lt;td&gt;data-mining,machine-learning&lt;/td&gt;
+      &lt;td&gt;https://ecmlpkdd2020.net/&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;National Conference of the American Association for Artificial Intelligence	(AAAI)&lt;/td&gt;
+      &lt;td&gt;A*&lt;/td&gt;
+      &lt;td&gt;August 12 – September 5, 2019: Authors register on EasyChair to submit paper September 5, 2019 (11:59 PM PST): Electronic papers due November 10, 2019 (11:59 PM PST): Acceptance/rejection notification November 21, 2019 (11:59 PM PDT): Camera-ready copy due&lt;/td&gt;
+      &lt;td&gt;artificial-intelligence&lt;/td&gt;
+      &lt;td&gt;https://aaai.org/Conferences/AAAI-20/&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;International Joint Conference on Artificial Intelligence (IJCAI)&lt;/td&gt;
+      &lt;td&gt;A*&lt;/td&gt;
+      &lt;td&gt;Abstract submission deadline: January 15, 2020 (11:59PM UTC-12) Paper submission deadline: January 21, 2020 (11:59PM UTC-12) Rebuttal period: March 21-25, 2020 Paper notification: April 19, 2020&lt;/td&gt;
+      &lt;td&gt;artificial-intelligence&lt;/td&gt;
+      &lt;td&gt;https://www.ijcai20.org/&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;European Conference on Artificial Intelligence (ECAI)&lt;/td&gt;
+      &lt;td&gt;A&lt;/td&gt;
+      &lt;td&gt;(All deadlines 23:59 UTC-12) 15 November 2019: ABSTRACT submission 19 November 2019: PAPER submission 18 December 2019: Rebuttals (for scientific papers) start (00:00 UTC-12) 20 December 2019: Rebuttals (for scientific papers) end 15 January 2020: Notification of acceptance/rejection 27 February 2020: Camera Ready papers&lt;/td&gt;
+      &lt;td&gt;artificial-intelligence&lt;/td&gt;
+      &lt;td&gt;http://ecai2020.eu/&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;International Conference on Artificial Intelligence and Statistics (AISTATS)&lt;/td&gt;
+      &lt;td&gt;A&lt;/td&gt;
+      &lt;td&gt;Submission server open	Tuesday, 17 September 2019 Paper submission deadline	Tuesday, 8 October 2019 23:59 PDT Author feedback deadline	November 28, 2019 Paper decision notifications	January 6, 2020 Conference start	Wednesday, 3 June 2020&lt;/td&gt;
+      &lt;td&gt;artificial-intelligence,statistics&lt;/td&gt;
+      &lt;td&gt;https://www.aistats.org/&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Annual Conference on Computational Learning Theory (COLT)&lt;/td&gt;
+      &lt;td&gt;A*&lt;/td&gt;
+      &lt;td&gt;TBD&lt;/td&gt;
+      &lt;td&gt;research-track&lt;/td&gt;
+      &lt;td&gt;http://learningtheory.org/&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;urls-for-reference&quot;&gt;URLs for reference&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/yzhao062/data-mining-conferences&quot;&gt;yzhao062/data-mining-conferences&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.cs.cmu.edu/~blengeri/deadlines.html&quot;&gt;Conference Deadlines by Ben Lengerich&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/bapalto/Machine-Learning-Conferences/tree/master/2018&quot;&gt;https://github.com/bapalto/Machine-Learning-Conferences/tree/master/2018&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://aideadlin.es/?sub=ML&quot;&gt;AI Conference Deadlines&lt;/a&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/ml-conferences/</guid>
+			</item>
+		
+			<item>
+				<title>My submissions in 2019</title>
+				<link>/submissions2019/</link>
+				<pubDate>Thu, 17 Oct 2019 00:00:00 -0500</pubDate>
+				<description>&lt;p&gt;I would like to keep track of the publications that I had this year. I am doing this publicicly to provide more transparency but also to higlight that submissions is a numbers game and often hard to foresee the outcome of the quality of one’s work.&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">/submissions2019/</guid>
+			</item>
+		
+			<item>
+				<title>Bringing back the website</title>
+				<link>/update/</link>
+				<pubDate>Wed, 02 Oct 2019 00:00:00 -0500</pubDate>
+				<description>&lt;p&gt;After a long pause, I realized the importance of writing regularly to express my ideas.
+The objective is to support my research and personal studies through regular posts.&lt;/p&gt;
+
+&lt;p&gt;I also recovered old posts from the years 2013 to 2015 on entrepreneurship and on managing data science teams.&lt;/p&gt;
+
+&lt;p&gt;I hope these and future posts are valuable for anyone looking at strengthening their enterprise machine learning capabilities.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/update/</guid>
+			</item>
+		
+			<item>
+				<title>The future of Apache Spark</title>
+				<link>/apache_spark/</link>
+				<pubDate>Wed, 13 May 2015 00:00:00 -0500</pubDate>
+				<description>&lt;p&gt;At Strata + Hadoop World in London the future of Apache Spark was a big topic of attention. The young platform born originally with the humble objective “to spark an ecosystem in Mesos” has become the most contributed project in the Apache Foundation. This year it attracted hundreds of attendants interested in gaining a deeper understanding ranging from how to develop applications based on Spark, what are interesting use cases, how to integrate it in an existing ecosystem and how to use it in a production environment.&lt;/p&gt;
+
+&lt;p&gt;The questions were numerous across all panels, trainings and discussions. Spark exists since 2010 but it really started getting significant traction in 2013. The relative novelty of Spark was clear, many of the attendants either did not have relevant experience or had just toyed with it. In addition, for many, it is not easy to understand where Spark fits in the big data landscape. Common questions were related to the relation of Spark with other popular technologies such as Hadoop, Kafka, Casandra, ElasticSearch and similar.&lt;/p&gt;
+
+&lt;p&gt;One of the big advantages of Apache Spark is that it acts as a common platform and makes everything high level. Until 2011, trying to do a big data project required working with four to five different technologies of the Hadoop ecosystem and writing hundreds of lines of low-level code. Additionally, some of these technologies felt heavy. This has changed with Spark and its surrounding ecosystem. Whereas Hadoop alone has more than 200 thousand lines of code, Spark is a much smaller project. Partly, this can be explained because Hadoop was written in Java, a verbose language, and Spark in Scala, a more concise programming language, but mostly this is due to spark being developed almost 10 years later after the famous MapReduce paper from Google.&lt;/p&gt;
+
+&lt;p&gt;In addition, Spark is acting as a big magnet with its platform approach. Developers can create applications in some of the most popular languages available: java, scala, python, other JVM languages and soon R. They also can make use of modules built on top of Spark by Databricks covering important use cases such as streaming, machine learning, graphs and data retrieval in sql-like fashion. Here, Databricks has been careful in avoiding a fast and organic growth in their libraries that can lead to code of lower quality or in the case of MLLib to algorithms that are not properly implemented and tested. This gives developers and companies alike significant peace of mind, other projects targeting machine learning for big data such as Mahout suffer from a lack of stringent quality control. Often, it is not clear if the algorithms available in the library are ready for production or were just a weekend project of some enthusiastic contributor. It is clear that Databricks is aiming for wide enterprise adoption and they seem to be heading in the right direction.&lt;/p&gt;
+
+&lt;p&gt;However, the question remains on what can we expect from Spark for this and next year. Patrick Wendell, Andy Kowinsky, Sean Owen and other key contributors at Databricks and Cloudera discussed this vividly across many panels and personal discussions. The main takeaways can be grouped around the following projects:&lt;/p&gt;
+
+&lt;p&gt;Spark streaming: Right now is a very exciting time in stream processing. There are a lot of open source tools in the market such as Storm, Samza or Kafka. Although all of them have their special place in the market, Spark does not want to be a direct competitor. Spark streaming is rather focused on those users seeking to run everything under one platform. The same code for batches should also run smoothly under streaming mode. The panel acknowledged that other tools such as Storm are still more mature and that Spark streaming is not exactly real streaming but rather micro batching (one RDD is created every second). However, they assured that the project is maturing very rapidly and that micro batching is good enough for most use cases. (See: https://spark.apache.org/streaming/)
+Dataframes: Although the API is undergoing serious changes and will only be stable until Spark 1.5, Dataframes is clearly one of the most important projects at Databricks. The idea is to offer the same flexibility and feature-richness that users of R and Python already enjoy. For users it should be very intuitive to do common transformations. For example, instead of doing a series of lambda functions to do a groupby, one can only do df.groupby(“user”). In addition, it has been heavily optimised and therefore it is much faster than an RDD regardless of the language being used. (See: https://databricks.com/blog/2015/02/17/introducing-dataframes-in-spark-for-large-scale-data-science.html)&lt;/p&gt;
+
+&lt;p&gt;Spark SQL: It is being positioned as a replacement for Hive and one of the key features behind Spark. For this, it leverages heavily Spark dataframes and provides a higher level of abstraction that enables analysts and other non-technical users to run queries on Spark. With the SchemaRDDs it is possible to plug different sources and query them all using the same sql-like queries.  (See: https://spark.apache.org/sql/)&lt;/p&gt;
+
+&lt;p&gt;BlinkDB: Similarly to Spark SQL, BlinkDB is an approximate query engine to run queries at scale. The idea is to run queries extremely fast by trading query accuracy for response time. It enables interactive queries over massive data by running queries on data samples and presenting results annotated with meaningful error bars. Although currently not part of Spark and still an experimental project, it is expected that several of the features behind it will be included in Spark SQL (See: http://blinkdb.org/)&lt;/p&gt;
+
+&lt;p&gt;MLLib: Mahout has clearly lost traction and currently we do not have “the” library for machine learning on big data or on the JVM. MLLib tries to fill this void specially for engineers that are not familiar with the theory behind machine learning but would like to include predictive features in their projects. However, the team is aware that the number of algorithms available is still limited, there are some rough edges and the documentation can be improved. (See: https://spark.apache.org/mllib/)
+Mesos: Spark originally started as a support tool for Mesos. The project is very actively developed and companies such as Twitter and Apple rely on it (as highlighted by Paco Nathan in the comments section). However, many of the original contributors are now at Databricks focused on other tasks. For some projects it might be ideal, but it is clear that now YARN has more momentum and that is a good combination specially if it is being used together with Hadoop. (See: http://mesos.apache.org/)&lt;/p&gt;
+
+&lt;p&gt;Tachyon: Some attendants wanted to know the relation between Tachyon and Spark. Spark is bundled with Tachyon. Both projects came originally from Amplab, the laboratory in Berkeley where Spark was originally conceived. But Tachyon is a separate  project and not directly related to Spark. Moreover, Databricks does not work with it. Yet, external contributors are trying to do integration with spark. (See: http://tachyon-project.org/ ) 
+Project Tungsten: It is a major optimisation project. It consists of three main initiatives: Memory management and binary processing, cache-aware computation and code generation. We can expect to see the first results already in Spark 1.4. (See: https://databricks.com/blog/2015/04/28/project-tungsten-bringing-spark-closer-to-bare-metal.html)
+Language support: Spark can be run in Java, Scala and Python. This year R will be included. It is also expected that PySpark will become more mature. Some companies are using PySpark in production but many others still feel that the API is still lacking. Due to differences in programming paradigms, it is not possible to expect that all APIs will have exactly the same functionalities and features. In addition, performance will vary across languages. Reality is that a basic knowledge of Scala is necessary to make fully use and optimise Spark.
+Certification: Currently provided by O’Reilly, the Apache Spark certification is an important area of attention at Databricks. Most likely they will create more specialised certifications (e.g. with a focus on devops) and the existing one will be updated soon to reflect the recent changes and new features. The current certification has a focus on the inner details of Spark core and is a good way to demonstrate a solid understanding of the technology powering Spark. (See: http://www.oreilly.com/data/sparkcert.html) 
+In conclusion, although the Spark ecosystem is growing very fast and is now one of the biggest names in the cluster computing ecosystem, both speakers and attendants agreed that Hadoop and its ecosystem is not going anywhere. Both technologies are production-ready and being used by hundreds of companies worldwide. Competition is healthy and data engineers and data scientists a-like should choose the right tool for the job.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/apache_spark/</guid>
+			</item>
+		
+			<item>
+				<title>Building Data Science Teams</title>
+				<link>/building_ds_teams/</link>
+				<pubDate>Wed, 04 Feb 2015 00:00:00 -0600</pubDate>
+				<description>&lt;p&gt;A factor that is often overlooked when setting up a data team is the selection of the technology stack. Often, this decision is delegated to the first hire in data science. Due to a lack of information about the right technologies, those in charge avoid making a decision. There is a case to be made for building a multilingual team. Nevertheless, I would like to highlight the advantages of choosing a technology stack during the conceptualization of a data team:&lt;/p&gt;
+
+&lt;h3 id=&quot;hiring&quot;&gt;Hiring&lt;/h3&gt;
+
+&lt;p&gt;More often than not, Internet companies looking for a data scientist phrase their current job openings like this: “Expert knowledge of an analysis tool such as R, Matlab, or SAS and ability to write efficient code in at least one language (preferably Java, C++, Python, or Perl)”. The problem here is that these are seven different skills for very different use cases. As a consequence, the company receives a huge variety of profiles and this does not help to ease the selection process at all.&lt;/p&gt;
+
+&lt;p&gt;It is important to distinguish between using exotic and sexy technologies to attract top talent and the tools that will be actually used for the day-to-day job. Therefore, it is possible to search for a data scientist who is proficient in Java and Scala but who will have the opportunity to work with Clojure. All three languages are part of the Java Virtual Machine, they are used extensively in the data science world and they complement each other. The team might actually only use Scala, but Clojure is used as bait to allure top candidates. Other popular choices here are the languages Julia and Haskell. However, be careful and do not overuse this strategy. A company should ask itself which technologies and programming languages they can and want to support. For example, other teams might already be working with them but for other tasks and it may be possible to do knowledge sharing.&lt;/p&gt;
+
+&lt;p&gt;Additionally, the company should analyze the realities of the job market. Some of the languages listed above are in great demand, but only small communities are able to use them. At the moment, trying to hire a good data engineer proficient in Python and based in Europe is a very difficult task. Despite salary tags, the market is dry. Companies have to look overseas for ideal candidates and deal with the added overhead. My experience has been that hiring a non-EU national and bringing him or her to continental Europe can take up to six months due to legal paperwork and relocation. Therefore, building a quality team can take at least one year of active searching and even longer with the wrong decisions regarding technology.&lt;/p&gt;
+
+&lt;h3 id=&quot;know-how&quot;&gt;Know-How&lt;/h3&gt;
+
+&lt;p&gt;Similarly, as the team grows and time passes, they will accumulate expertise and a code base. People come and go but your technical debt stays. I have seen cases where technology choices were an afterthought and changes were painful. Data teams are similar to any other software team where migrations and major refactoring are significant undertakings that always come at a cost.&lt;/p&gt;
+
+&lt;p&gt;For example, one team decided to use R as their main programming language but months later realized that it did not fit in their pipeline; they migrated to Python and were set back by six months. Similarly, one team let their first data science hire freely choose his technology stack. The person decided to use Haskell, a relatively obscure programming language, as their main tool. One year later, the person left the company and now they have a codebase that cannot be maintained because they struggle to find appropriate talent.&lt;/p&gt;
+
+&lt;p&gt;Your team should not be dependent on specific contributors. Many people imagine that technologies are interchangeable and once you know one programming language or algorithm, you know all of them. Reality is very different. Everyone can learn a technology (programming language, storing, algorithm, API, etc.) in one weekend, but it takes much longer to produce results that can go to production code. Therefore, strategically select technologies together with other stakeholders and base the decision on which type of know-how you want to foster in the company.&lt;/p&gt;
+
+&lt;h3 id=&quot;team-culture&quot;&gt;Team Culture&lt;/h3&gt;
+
+&lt;p&gt;Every technology and machine learning technique has its own community and idiosyncrasies. This should be considered during the selection process, as you might be wooing individuals that might not be the right fit. Furthermore, using bleeding edge technology attracts a complete different type of profile than selecting tried and tested choices. As previously mentioned, hiring the right talent for data science is hard and takes time; you do not want to bring in somebody who fits on paper, but does not adapt and later leaves. The choice of technology plays a big role here.&lt;/p&gt;
+
+&lt;p&gt;Additionally, do not underestimate the risks of working with the bleeding edge. It tends to attract top candidates willing to accept less competitive packages. However, the cutting edge tends to be unstable, sometimes poorly documented and often it is not fully understood how to scale it best. Similarly, not everyone in the team might be able to embrace it with the speed that you require. This can be very frustrating and toxic for your team culture if the team hits a wall and cannot go into production due to poor technology choices. Hence, if you are under a tight deadline, adopting a new technology can be detrimental for the team performance.&lt;/p&gt;
+
+&lt;h3 id=&quot;projects&quot;&gt;Projects&lt;/h3&gt;
+
+&lt;p&gt;The type of projects and the scope of the team will have a significant influence on the choice of technology. Some stacks are better suited for some use cases than others. For example, a data science team with a focus on analytics and ad-hoc reporting works perfectly under an R-centric or Python stack. On the other hand, a team requiring robust recommender systems or fraud detection might be better served with the JVM or even with C++.&lt;/p&gt;
+
+&lt;p&gt;In the early days of the team, the scope might not be clear. Nonetheless, it is important to discuss the type of potential projects that can fall in the area of responsibility of the team during the planning stage. If after these discussions, the mission of the team is not clarified, then it is better to make use of general technologies where the pool of candidates is larger.&lt;/p&gt;
+
+&lt;p&gt;The question therefore arises: Which technologies should I choose for my stack? The answer is not simple and this article only touches on some of the factors to consider. I will dedicate future posts to this subject, but for now you can use this rule of thumb: If your data qualifies as big data, then go for JVM-related technologies. If it does not, go for the Python or R ecosystem. These technology choices have robust libraries for the whole value chain (ETL, middleware, analytics, visualization, etc.), most of them are well documented, there is talent available and the ecosystems are solid enough to offer peace of mind to your CTO yet modern enough to attract top talent.&lt;/p&gt;
+
+&lt;p&gt;How did you decide, which technology stack is the best for your data science team? Which factors came into play?&lt;/p&gt;
+
+&lt;p&gt;This article originally appeared in http://venturebeat.com/2015/01/31/building-data-science-teams-the-power-of-the-technology-stack/&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/building_ds_teams/</guid>
+			</item>
+		
+			<item>
+				<title>How to maximise feedback sessions</title>
+				<link>/maximize_feedback_sessions/</link>
+				<pubDate>Sun, 25 Jan 2015 00:00:00 -0600</pubDate>
+				<description>&lt;p&gt;Often peers tell me that they enjoy having feedback sessions with their teams, but they feel that they are not getting enough value. I consider individual feedback sessions crucial for team performance. Therefore, I would like to give some advice on how to maximise 1:1 feedback sessions with your team.&lt;/p&gt;
+
+&lt;p&gt;For 1:1s is very important to be structured. Otherwise, there is a risk that it becomes just chitchat. For this reason, I believe meeting once a month is too frequent. Does a person behaviour and performance change dramatically in one month, so you need to give her advice and guidance? Most likely it does not.&lt;/p&gt;
+
+&lt;h3 id=&quot;periodicity&quot;&gt;Periodicity&lt;/h3&gt;
+
+&lt;p&gt;Normally, I have 1:1s sessions during a project at the beginning, in the middle and at the end. This works specially well with interns for example. If there are no specific projects and is just on-going work I try to organise a session every 6 to 8 weeks.&lt;/p&gt;
+
+&lt;h3 id=&quot;preparation&quot;&gt;Preparation&lt;/h3&gt;
+
+&lt;p&gt;Once you have defined the time frame that suits your organisation best. You should inform the person days in advance about the upcoming session. Ask her to be prepared and make some thoughts about:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Current project&lt;/li&gt;
+  &lt;li&gt;Current personal performance&lt;/li&gt;
+  &lt;li&gt;Team dynamics
+Etcetera. Make clear that she should not spend hours on this. But she should have clear opinion and thoughts about what has happened since you last talked.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;On the other hand, you should be prepared too. Never be spontaneous with your thoughts. In my opinion 1:1s are mentoring sessions where you should help your subordinates become better both on a personal and professional level. They can be very powerful and many people will be very thankful for this.&lt;/p&gt;
+
+&lt;p&gt;For this reason, I try to structure what I want to say to the person by answering 3 questions:&lt;/p&gt;
+
+&lt;h1 id=&quot;what-went-well-always-start-with-positive-things-it-will-ease-everybody&quot;&gt;What went well? Always start with positive things. It will ease everybody.&lt;/h1&gt;
+&lt;h1 id=&quot;what-did-not-go-well-once-people-have-been-complimented-they-are-more-receptive-for-negative-critique-about-their-behaviour-and-performance&quot;&gt;What did not go well? Once people have been complimented, they are more receptive for negative critique about their behaviour and performance.&lt;/h1&gt;
+&lt;h1 id=&quot;what-can-be-improved-here-is-usually-a-thing-that-was-not-catastrophic-but-not-stellar-either&quot;&gt;What can be improved? Here is usually a thing that was not catastrophic but not stellar either.&lt;/h1&gt;
+
+&lt;p&gt;There is a fourth question in case this is not your first session with them: What has changed since last time. Here I review comments I made from previous sessions and briefly think if things improved or not. I also make regularly notes about each of my team members, so I go and review them to see if I am forgetting something.&lt;/p&gt;
+
+&lt;p&gt;Be very specific and always mention concrete examples. Try to focus on things that offset you the most or that you would like to specially highlight. Then, people cannot change everything in them at the same time (and if you feel it should be so, then maybe that person is not a good fit for your organisation). I write all these things down and usually spend 15 to 20 minutes organising my thoughts and preparing it.&lt;/p&gt;
+
+&lt;h3 id=&quot;session&quot;&gt;Session&lt;/h3&gt;
+
+&lt;p&gt;On the day of the session, call the person and go to a quiet place where you can talk and where other people from the organisation cannot hear you. Establish an atmosphere of trust and intimacy. Before starting, always offer to go for some drink and make some small talk. People who are having a 1:1 for the first time often expect the worse (e.g. contract termination) so try to relax them.&lt;/p&gt;
+
+&lt;p&gt;Once you are all set, explain first the motives of the reunion and outline the process: How long it will take (no more than 30mins), which topics you will discuss (mention the 3 questions listed above) and that you also expect feedback from them (about your own performance, the team, etc.). If this is a follow-up session, also mention that you will address the things that have changed since last time.&lt;/p&gt;
+
+&lt;p&gt;I start by recapitulating briefly what happened last time and the changes I noticed in the person. Then I go through my 3 questions. If the person has something to say, I write it down, but normally I do not answer them back. Often people will try to justify themselves and their behaviour especially if you are making a negative comment. However, I do not like to start a discussion/controversy.&lt;/p&gt;
+
+&lt;p&gt;Once I have finished, I invite them to give me feedback. I listen and write all the things they say. I never reply or try to justify.&lt;/p&gt;
+
+&lt;p&gt;Before finishing the session, I always repeat the main points and highlight one thing specifically, it can be positive or negative.&lt;/p&gt;
+
+&lt;p&gt;After this, I thank them and tell them that I would like to have a follow-up session in the future as a next step and we leave the room together.&lt;/p&gt;
+
+&lt;h3 id=&quot;next-steps&quot;&gt;Next Steps&lt;/h3&gt;
+
+&lt;p&gt;As mentioned above, I write regularly things that I notice about individual member or the team as a whole. Just small bullet points on a regular basis. This gives me objective material to address during the 1:1. It is brief and spontaneous; otherwise, it does not scale if you have a team of 10+ people. In any case, as next step, I monitor their performance / behaviour and keep a log of this.&lt;/p&gt;
+
+&lt;p&gt;As you can see, the most important thing is to have a framework. This is what works for me best. If your situation is different, then adapt it or come up with one of your own. 1:1 are an incredibly powerful tool. The best thing is when people honestly thank you for giving them valuable feedback and help them change for good. Hence, you have to be prepared, be structured and precise.&lt;/p&gt;
+
+&lt;p&gt;How do you do your feedback sessions?&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/maximize_feedback_sessions/</guid>
+			</item>
+		
+	</channel>
+</rss>
