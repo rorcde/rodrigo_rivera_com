@@ -8,7 +8,7 @@ services:
       ports:
          - "0.0.0.0:8081:8888"
       volumes:
-         - $PWD:/srv/jekyll
+         - ../.:/srv/jekyll
       ipc: host
       command: jekyll serve --watch --host 0.0.0.0 --port 8888
       stdin_open: true
