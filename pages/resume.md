@@ -11,13 +11,13 @@ resume_name:                    "Rodrigo Rivera-Castro"
 resume_image: org_rodrigorivera_313x350.jpg
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "rodrigo.riveracastro@skoltech.ru"
+resume_contact_email:           "rodrigo.rivera@cdtm.de"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "000000"
-resume_contact_address:         "Skolkovo Innovation Center, Building 3, 143026 Moscow, Russia"
+resume_contact_address:         "Center for Digital Technology and Management, Arcisstr. 21, 80333 Munich, Germany"
 
-resume_header_contact_info:     "Skolkovo Innovation Center, Building 3, 143026 Moscow, Russia - rodrigo.riveracastro@skoltech.ru"
+resume_header_contact_info:     "Center for Digital Technology and Management, Arcisstr. 21, 80333 Munich, Germany - rodrigo.rivera@cdtm.de"
 display_header_contact_info:    "true"
 
 #resume_header_intro: "<p>International by design, speaking 5 languages, Rodrigo has worked on leadership roles in machine learning research and data science in South East Asia, the Americas and Europe with leading FMCG and Internet companies over the last 10 years. </p>"
@@ -55,11 +55,6 @@ resume_print_social_links:      true
 # Jobs
 experience:
 - company:
-    name: ADASE
-    position: Researcher
-    duration: 2017 &mdash; Present
-    #summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-- company:
     name: Samsung NEXT
     position: Technical Director
     duration: 2021
@@ -80,19 +75,9 @@ experience:
     duration:   2016  &mdash; 2018
     #summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
 - company:
-    name: Linio Group
-    position: Head Data Science & Machine Learning
-    duration:   2015  &mdash; 2017
-    #summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
-- company:
-    name: Lamoda Group
-    position: VP R&D
-    duration:   2014  &mdash; 2015
-    #summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
-- company:
     name: Rocker Internet SE
     position: Director Advertisement Technology
-    duration:   2012  &mdash; 2014
+    duration:   2012  &mdash; 2016
     #summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
 - company:
     name: Emplido

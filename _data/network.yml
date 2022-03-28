@@ -1,5 +1,10 @@
 - menu_name: "Associations"
 
+- name: "* CDTM"
+  url: "https://cdtm.de"
+  class: "sitemap-link"
+  title: "CDTM"
+
 - name: "* SMILES"
   url: "http://smiles.skoltech.ru/"
   class: "network-entypo"
@@ -10,17 +15,14 @@
   class: "network-entypo"
   title: "Machine Learning Summer School"
 
-- name: "* Skoltech"
-  url: "http://skoltech.ru/"
-  class: "services-newsletter"
-  title: "Skoltech"
-
 - name: "* ADASE Group"
   url: "http://adase.group/"
   class: "rss-link"
   title: "ADASE"
 
-- name: "* CDISE"
-  url: "https://crei.skoltech.ru/cdise"
-  class: "sitemap-link"
-  title: "CDISE"
+- name: "* Skoltech"
+  url: "http://skoltech.ru/"
+  class: "services-newsletter"
+  title: "Skoltech"
+
+

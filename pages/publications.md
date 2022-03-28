@@ -12,6 +12,24 @@ image:
 For a complete list, please feel free to visit [Google Scholar](https://scholar.google.com/citations?hl=en&user=nQGmpjUAAAAJ&view_op=list_works&sortby=pubdate)
 
 Publications as First Author with a WoS Index and Core Ranking:
+### 2022
+#### IEEE Access
+Sequence Embeddings Help Detect Insurance Fraud
+
+### 2021
+### SIGKDD
+Adversarial attacks on deep models for financial transaction records
+
+### IEEE DSAA
+CAUSALYSIS: Causal Machine Learning for Real-Estate Investment Decisions
+
+### 2020
+#### IEEE Big Data
+Addressing cold start in recommender systems with hierarchical graph neural networks
+
+#### IEEE International Conference on Machine Learning and Applications
+Graph Neural Networks for Model Recommendation using Time Series Data
+
 ### 2019
 #### IEEE ICDM Workshop on Blockchain Data Analytics
 Topological Data Analysis for Portfolio Management of Cryptocurrencies

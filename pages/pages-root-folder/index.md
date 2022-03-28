@@ -14,7 +14,7 @@ header:
   social_links:
   - link:
       label: My Twitter
-      href: http://www.twitter.com/RodrigoRivr
+      href: http://www.twitter.com/rorcde
       class: fab fa-twitter
   - link:
       label: My Keybase
@@ -33,12 +33,12 @@ header:
       href: https://www.goodreads.com/user/show/10442568-rodrigo-rivera
       class: fab fa-goodreads-g
   - link:
-      label: My Telegram
-      href: https://t.me/rod_rigo
+      label: My Telegram Channel
+      href: https://t.me/mindthecustomer
       class: fab fa-telegram-plane
   - link:
-      label: My Instagram
-      href: http://instagram.com/rodrigo.rivera._
+      label: My Substack
+      href: https://mindcustomer.substack.com/
       class: fab fa-instagram
 
   text_links:
@@ -60,7 +60,7 @@ widget1:
   title: "Rodrigo Rivera"
   url: 'http://mlss.cc'
   image: banner_rodrigo_cdtm.jpg
-  text: 'Rodrigo is a Mexican German researcher at the ADASE group part of Skoltech in Moscow, Russia. He brings more than twelve years of experience working on applied machine learning tasks for the e-commerce, technology, and FMCG sectors.'
+  text: 'Rodrigo is a Mexican German researcher in Machine Learning. He brings more than twelve years of experience working on applied machine learning tasks for the e-commerce, technology, and FMCG sectors.'
 
 widget2:
   title: "Research"
