@@ -61,12 +61,12 @@ experience:
     #summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 - company:
     name: Alibaba
-    position: Machine Learning Advisor
+    position: Machine Learning Engineer
     duration: 2019 &mdash; 2020
     #summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 - company:
     name: Huawei
-    position: Machine Learning Advisor
+    position: Machine Learning Engineer
     duration:  2018 &mdash; 2019
     #summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
 - company:
